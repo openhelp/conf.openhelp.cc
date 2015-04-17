@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="index">
+
+<info>
+  <title type="link">Open Help</title>
+</info>
+
+<title></title>
+
+<p>The 2014 Open Help Conference &amp; Sprints takes place June
+14-18 in downtown Cincinnati, Ohio. Open Help brings together
+leaders in open source documentation and support, as well as
+people from across the technical communications industry who
+are interested in community-based help.</p>
+
+<p>The Open Help Conference features two days of presentations and
+open discussions. In true open source spirit, our discussions and
+agenda are led by our attendees, allowing you to learn and share
+what matters to you most. With some of the most interesting people
+in the industry, the Open Help Conference showcases the ideas that
+are shaping the future of help.</p>
+
+<p>Following the conference, multiple teams take part in the Open
+Help Sprints, collaborative team meetings where people put ideas
+to work. Don’t have a team to bring to the sprint? Join us anyway
+and learn from the people who are pioneering documentation sprints.</p>
+
+<section id="sponsors">
+  <title>Sponsors</title>
+
+  <p>Interested in sponsoring the Open Help Conference? Sponsorship
+  helps you promote your company to leaders in open source and
+  technical communications. Email
+  <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> for
+  more information.</p>
+</section>
+
+</page>
