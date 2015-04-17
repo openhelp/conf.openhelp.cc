@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="schedule">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2011 Schedule</title>
+
+<section id="friday">
+  <title>Friday, June 3</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>7:00pm</p></td>
+      <td><p>10:00pm</p></td>
+      <td><p>Reception. Meet other attendees in a casual and social
+      environment. Light hors d’œuvres will be served.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="saturday">
+  <title>Saturday, June 4</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>9:30am</p></td>
+      <td><p>Continental breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>9:30am</p></td>
+      <td><p>9:40am</p></td>
+      <td><p>Opening remarks</p></td>
+    </tr>
+    <tr>
+      <td><p>9:40am</p></td>
+      <td><p>10:20am</p></td>
+      <td><p><link xref="sessions#anne_gentle"/> —
+      <link xref="speakers#anne_gentle"/></p></td>
+    </tr>
+    <tr>
+      <td><p>10:30am</p></td>
+      <td><p>11:10am</p></td>
+      <td><p><link xref="sessions#david_robbins"/> —
+      <link xref="speakers#david_robbins"/></p></td>
+    </tr>
+    <tr>
+      <td><p>11:20am</p></td>
+      <td><p>12:00am</p></td>
+      <td><p><link xref="sessions#dru_lavigne"/> —
+      <link xref="speakers#dru_lavigne"/></p></td>
+    </tr>
+    <tr>
+      <td><p>12:00pm</p></td>
+      <td><p>1:30pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>1:30pm</p></td>
+      <td><p>2:10pm</p></td>
+      <td><p><link xref="sessions#janet_swisher"/> —
+      <link xref="speakers#janet_swisher"/></p></td>
+    </tr>
+    <tr>
+      <td><p>2:20pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p><link xref="sessions#jennifer_zickerman"/> —
+      <link xref="speakers#jennifer_zickerman"/></p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>3:30pm</p></td>
+      <td><p>Break and discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>3:30pm</p></td>
+      <td><p>4:10pm</p></td>
+      <td><p><link xref="sessions#shaun_mccance"/> —
+      <link xref="speakers#shaun_mccance"/></p></td>
+    </tr>
+    <tr>
+      <td><p>4:20pm</p></td>
+      <td><p>5:00pm</p></td>
+      <td><p><link xref="sessions#lana_brindley"/> —
+      <link xref="speakers#lana_brindley"/></p></td>
+    </tr>
+    <tr>
+      <td><p>5:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sunday">
+  <title>Sunday, June 5</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>9:00am</p></td>
+      <td><p>Continental breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>12:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>12:00pm</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>1:00pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open collaboration</p></td>
+    </tr>
+  </table>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

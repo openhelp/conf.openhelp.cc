@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="speakers">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2011 Speakers</title>
+
+<section id="anne_gentle">
+  <title>Anne Gentle</title>
+
+  <media src="annegentle.jpg" width="159" height="159" style="floatend">
+    <p>Anne Gentle</p>
+  </media>
+
+  <p>Anne Gentle is the author of
+  <link href="http://xmlpress.net/publications/conversation-community/">Conversation
+  and Community: The Social Web for Documentation</link>. She works on the
+  OpenStack project now as a Content Stacker, collaborating on community
+  documentation so that any organization can offer cloud computing
+  capabilities using open source software.</p>
+
+  <p><link xref="sessions#anne_gentle"/></p>
+</section>
+
+<section id="janet_swisher">
+  <title>Janet Swisher</title>
+
+  <media src="janetswisher.jpg" width="160" height="156" style="floatend">
+    <p>Janet Swisher</p>
+  </media>
+
+  <p>Janet Swisher works on documentation for the Mozilla Developer Network.
+  She has worked as a technical writer since 1999, and has worked on open
+  source documentation since 2004. She has volunteered since 2008 with the
+  <link href="http://en.flossmanuals.net/">FLOSS Manuals</link> project.
+  She writes about technical communication and open source software on her
+  blog, <link href="http://www.janetswisher.com/">Techie Technical Writer</link>.</p>
+
+  <p><link xref="sessions#janet_swisher"/></p>
+</section>
+
+<section id="dru_lavigne">
+  <title>Dru Lavigne</title>
+
+  <p>Dru Lavigne is Director of Community Development for the PC-BSD
+  Project where she leads the documentation team, assists new users,
+  helps to find and fix bugs, and reaches out to the community to
+  discover their needs. She is author of BSD Hacks, The Best of
+  FreeBSD Basics, and The Definitive Guide to PC-BSD. She is the
+  former Managing Editor of the Open Source Business Resource, a
+  free monthly publication covering open source and the
+  commercialization of open source assets. She is founder and current
+  Chair of the BSD Certification Group Inc., a non-profit organization
+  with a mission to create the standard for certifying BSD system
+  administrators, and serves on the Board of the FreeBSD Foundation.</p>
+
+  <p><link xref="sessions#dru_lavigne"/></p>
+</section>
+
+<section id="lana_brindley">
+  <title>Lana Brindley</title>
+
+  <p>Lana Brindley has business, marketing, and technical communication
+  degrees, and has been writing professional open source documentation
+  for five years. She is currently working on documentation for
+  enterprise-level cloud applications with Red Hat, and loving every
+  minute of it. She works from her home in Canberra, Australia, where
+  she is busy raising her very own geek girl. One day, she hopes to
+  write the manual for that, too.</p>
+
+  <p><link xref="sessions#lana_brindley"/></p>
+</section>
+
+<section id="david_robbins">
+  <title>Dave Robbins</title>
+
+  <media src="davidrobbins.png" width="123" height="160" style="floatend">
+    <p>Dave Robbins</p>
+  </media>
+
+  <p>Dave Robbins has enjoyed a long career as a technical writer,
+  recently joining GE Intelligent Platforms as a Lead Help Author
+  after many years with Unisys Corporation.</p>
+
+  <p><link xref="sessions#david_robbins"/></p>
+</section>
+
+<section id="shaun_mccance">
+  <title>Shaun McCance</title>
+
+  <media src="shaunmccance.jpg" width="160" height="160" style="floatend">
+    <p>Shaun McCance</p>
+  </media>
+
+  <p>Shaun has been involved with GNOME documentation since 2003,
+  when he took over development of the help system and leadership
+  of the documentation team. Years of dealing with distribution
+  changes led him to spearhead Mallard, a topic-oriented help
+  format that is designed to support third-party page additions
+  with dynamic navigation. He enjoys the technical side of technical
+  writing, and sometimes blogs about it on
+  <link href="http://blogs.gnome.org/shaunm/">Shaun’s Blog</link>.
+  Shaun recently started his own consulting company,
+  <link href="http://syllogist.net/">Syllogist</link>, bringing
+  community-based help to companies.</p>
+
+  <p><link xref="sessions#shaun_mccance"/></p>
+</section>
+
+<section id="jennifer_zickerman">
+  <title>Jennifer Zickerman</title>
+
+  <media src="jenniferzickerman.jpg" width="160" height="160" style="floatend">
+    <p>Jennifer Zickerman</p>
+  </media>
+
+  <p>Jennifer Zickerman works on
+  <link href="http://www.mozillamessaging.com/en-US/thunderbird/">Mozilla’s
+  Thunderbird email application</link>, writing, editing and generally
+  wrangling documentation for (and from) users and developers. Over the
+  years she has worked with several organizations that build open software,
+  such as
+  <link href="http://www.activestate.com/">ActiveState</link>,
+  <link href="http://ez.no/">eZ Systems</link> and
+  <link href="http://www.sxip.com/">Sxip Identity</link>.</p>
+
+  <p><link xref="sessions#jennifer_zickerman"/></p>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

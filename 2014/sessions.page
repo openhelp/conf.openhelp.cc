@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="sessions">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2014 Sessions</title>
+
+<p>Want to show the world what you’ve been working on? Email your
+proposal to <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link>.
+We’re interested in any topic related to documentation, support, and
+open communities. In particular, we’re excited to see talks related
+to the following:</p>
+
+<list style="compact">
+  <item><p>Engaging user communities to create user-generated content,
+  managing contributions and contributors, and getting people excited
+  about helping other users.</p></item>
+  <item><p>Running effective documentation sprints, either in-person
+  or remotely.</p></item>
+  <item><p>Making documentation available to everybody through better
+  internationalization, localization, and accessibility.</p></item>
+</list>
+
+<p>The Open Help Conference has a heavy focus on open discussion,
+so we prefer presentations that foster discussion and collaboration.
+Plan to speak for 45 minutes. Proposals are evaluated as they come
+in, so send your proposal as soon as possible.</p>
+
+<section id="featured">
+  <title>Featured Presentations</title>
+
+  <section id="eric_shepherd">
+    <title>Help people so they can help you</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#eric_shepherd"/></p></item>
+    </list>
+
+    <p>Fostering and sustaining a community of volunteer writers
+    is a big job. It’s not enough to simply capture their attention;
+    you have to keep it, and you have to make it easy for them to
+    find appropriate, useful tasks they can accomplish.</p>
+
+    <p>During this talk, you’ll learn about the latest ways Mozilla
+    is engaging with its community of writers, as well as the tools
+    we’ve built (and continue to build) to make it easier for
+    contributors to find things to do that are appropriate to their
+    skills and availability.</p>
+  </section>
+
+  <section id="rich_bowen">
+    <title>RTFM? Write a better FM!</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#rich_bowen"/></p></item>
+    </list>
+
+    <p>While Laziness, Impatience and Hubris might be the virtues
+    of a programmer, Diligence, Patience and Humility are the
+    virtues of a great docs writer. Rich shares some insights
+    gleaned from 15 years of working on documentation and answering
+    the newbies.</p>
+  </section>
+
+  <section id="shaun_mccance">
+    <title>Community Lessons From IRL</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#shaun_mccance"/></p></item>
+    </list>
+
+    <p>After over a decade of building online communities around
+    open source projects, Shaun got entangled in an effort to open
+    a grocery co-op in his neighborhood. He’ll share his experiences
+    in building communities in real life, how they differ from online
+    communities, and how many principles of community-building are
+    always the same.</p>
+  </section>
+</section>
+
+<section id="briefs">
+  <title>Demos and Briefs</title>
+
+  <p>Do you have something you want to show off, or something quick
+  to say without preparing a full talk? We have slots for demos and
+  brief talks. Briefs can be as short as a few minutes or as long
+  as 15 minutes, but be prepared for questions. Email
+  <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> with
+  a short description.</p>
+
+  <section id="jana_svarova">
+    <title>Rewriting Markdown Documents into Mallard: Check Lists</title>
+
+    <list style="compact">
+      <item><p>Jana Svarova</p></item>
+    </list>
+
+    <p>How to assist the reader to grasp not only the amount of
+    information but also the order in which the information should
+    be read and processed? How to provide the reader with logical
+    and clear structure that would lead them linearly in the
+    topic-based manner?</p>
+
+    <p>On the example of rewriting checklists into Mallard, this
+    brief talk demonstrates various uses of this markup language,
+    which allows for writing even less usual document types. The
+    talk focuses on the Mallard strengths in general as well as
+    particular implementation details.</p>
+  </section>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

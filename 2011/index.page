@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+<info>
+  <title type="link" role="trail">2011</title>
+</info>
+
+<title>Open Help 2011</title>
+
+<media src="openhelp2011.png" style="floatstart" width="125" height="125"/>
+
+<p>The Open Help Conference is a three-day event bringing together
+people who work on open source or community-based documentation and
+support. Combining traditional conference presentations with discussion
+forums and open-participation sessions, the Open Help Conference is
+a unique opportunity to learn, share, work, and have fun.</p>
+
+<p>The Open Help Conference has a strong focus on open collaboration
+and community-generated help, including:</p>
+
+<list style="compact">
+  <item><p>Documentation and support in open source projects</p></item>
+  <item><p>Community documentation efforts in commercial projects</p></item>
+  <item><p>Active user communication and feedback through social media</p></item>
+</list>
+
+<p>Open Help 2011 is over, but you can still have a look at the sessions
+and speakers.</p>
+
+<links type="topic" style="linklist"/>
+
+<section id="sponsors">
+  <title>Sponsors</title>
+
+  <p>Open Help 2011 would not have been possible without our generous sponsors.</p>
+
+  <p><link href="http://rackspace.com/"><media src="rackspace.png" width="158" height="60">Rackspace</media></link></p>
+
+  <p><link href="http://mozilla.org/"><media src="mozilla.png" width="150" height="37">Mozilla</media></link></p>
+
+</section>
+
+</page>

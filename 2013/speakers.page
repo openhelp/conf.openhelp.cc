@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="speakers">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2013 Speakers</title>
+
+<section id="janet_swisher">
+  <title>Janet Swisher</title>
+
+  <media src="janetswisher.jpg" width="160" height="156" style="floatend">
+    <p>Janet Swisher</p>
+  </media>
+
+  <p>Janet Swisher Janet Swisher helps build Mozilla’s communities
+  around developer documentation and technical evangelism. She has
+  worked as a technical writer since 1999, and has worked on open
+  source documentation since 2004. She has volunteered since 2008
+  with the <link href="http://en.flossmanuals.net/">FLOSS Manuals</link>
+  project. She writes about technical communication and open source
+  software on her blog,
+  <link href="http://www.janetswisher.com/">A Techie Technical Writer</link>.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#janet_swisher"/></p></item>
+  </list>
+</section>
+
+<section id="jorge_castro">
+  <title>Jorge Castro</title>
+
+  <media src="jorgecastro.jpg" width="160" height="160" style="floatend">
+    <p>Jorge Castro</p>
+  </media>
+
+  <p>Jorge O. Castro currently works on the Community Team as Cloud
+  Community Liaison for Canonical Ltd, sponsors of the Ubuntu project.
+  Jorge has been using Linux since 1998, and his current passion is
+  juju, the new cloud deployment tool. He has spoken at the Ohio Linux
+  Fest, SCaLE, OSCON, as well as various LUGs over the years.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#jorge_castro"/></p></item>
+    <item><p><link xref="sessions#support"/></p></item>
+  </list>
+</section>
+
+<section id="rich_bowen">
+  <title>Rich Bowen</title>
+
+  <media src="richbowen.jpg" width="160" height="160" style="floatend">
+    <p>Rich Bowen</p>
+  </media>
+
+  <p>Rich is the OpenStack Community Liaison at Red Hat, and is also
+  a 15-year veteran of Open Source documentation, on various projects
+  including Apache httpd, Perl, PHP, and several others you’ve probably
+  never heard of. Rich is the author of Apache Cookbook, and The
+  Definitive Guide to Apache mod_rewrite.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#rich_bowen"/></p></item>
+  </list>
+</section>
+
+<section id="noirin_plunkett">
+  <title>Nóirín Plunkett</title>
+
+  <media src="nóirínplunkett.jpg" width="160" height="160" style="floatend">
+    <p>Nóirín Plunkett</p>
+  </media>
+
+  <p>Nóirín Plunkett is a jack of all trades, and a master of several.
+  She works for Eucalyptus Systems, as a geek&lt;->English translator,
+  and general force multiplier. She’s passionate about community,
+  communication, and collaboration.</p>
+
+  <p>Her open source work epitomizes the saying “if you want something
+  done, ask a busy person”: Nóirín cut her teeth on the httpd documentation
+  project at Apache, and continues to contribute to projects as diverse
+  as Infrastructure and Incubator. Offline, Nóirín is a keen swing dancer
+  and storyteller.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#noirin_plunkett"/></p></item>
+  </list>
+</section>
+
+<section id="lee_hunter">
+  <title>Lee Hunter</title>
+
+  <media src="leehunter.jpg" width="133" height="160" style="floatend">
+    <p>Lee Hunter</p>
+  </media>
+
+  <p>Lee Hunter has been contributing to the Drupal documentation for
+  the past six years. One of his major goals as the newly-appointed
+  Doc Team Lead is to see Drupal develop into a useful CMS for
+  web-based technical communication. He’s been a writer and editor
+  for more than thirty years and has worked as a technical editor
+  for a number of software products including the Adobe Acrobat SDK.
+  He’s also done enterprise architecture and documentation for large
+  enterprise applications.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#lee_hunter"/></p></item>
+  </list>
+</section>
+
+<section id="michael_verdi">
+  <title>Michael Verdi</title>
+
+  <media src="michaelverdi.jpg" width="160" height="160" style="floatend">
+    <title>Michael Verdi</title>
+  </media>
+
+  <p>Michael Verdi joined the Mozilla support team in 2010 as the
+  content manager. In addition to creating Firefox documentation
+  and screencasts seen by millions, he works on ways to keep people
+  from ever having to visit the support site to begin with. He
+  occasionally blogs about this at
+  <link href="https://blog.mozilla.org/verdi">https://blog.mozilla.org/verdi</link>.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#michael_verdi"/></p></item>
+    <item><p><link xref="sessions#support"/></p></item>
+  </list>
+</section>
+
+<section id="siko_bouterse">
+  <title>Siko Bouterse</title>
+
+  <media src="sikobouterse.jpg" width="160" height="160" style="floatend">
+    <p>Siko Bouterse</p>
+  </media>
+
+  <p>Siko is an open collaboration junky and project-builder who
+  works as a grantmaker at the Wikimedia Foundation. She runs
+  Wikimedia’s Individual Engagement Grants Program and the
+  Grants:IdeaLab, and she’s spent 2 years facilitating teams
+  working on help documentation, volunteer onboarding, and social
+  support systems for Wikipedia. In a former life, she was a
+  localization and community manager; these days she’s mostly
+  preoccupied by setting up experiments to engage volunteers in
+  serious open-culture pursuits using playful structures.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#teahouse"/></p></item>
+    <item><p><link xref="sessions#support"/></p></item>
+  </list>
+</section>
+
+<section id="jeremy_garcia">
+  <title>Jeremy Garcia</title>
+
+  <media src="jeremygarcia.jpg" width="160" height="160" style="floatend">
+    <title>Jeremy Garcia</title>
+  </media>
+
+  <p>Jeremy is the Founder of
+  <link href="http://linuxquestions.org/">LinuxQuestions.org</link>,
+  and an ardent but realistic Open Source evangelist. Founded in
+  2000, LQ is a friendly and active Linux community that served as
+  the initial site in what has now become The Questions Network.
+  Current member sites include
+  <link href="http://androidquestions.org/">AndroidQuestions.org</link>,
+  <link href="http://chromeosquestions.org/">ChromeOSQuestions.org</link> and
+  <link href="http://linuxexchange.org/">LinuxExchange.org</link>.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#support"/></p></item>
+  </list>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

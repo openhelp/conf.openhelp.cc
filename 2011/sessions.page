@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="sessions">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2011 Sessions</title>
+
+<p>All speakers received a free book courtesy of
+<link href="http://xmlpress.net/">XML Press</link>.</p>
+
+<section id="anne_gentle">
+  <title>Sprints and Stacks: Lessons in Documentation Community Building</title>
+
+  <p><link xref="speakers#anne_gentle"/></p>
+
+  <p>You can build a documentation strategy within your community that
+  harnesses collaborative energy, but it’s not easy. The payoffs are real
+  in terms of increased adoption, download conversions, and connecting one
+  community member to another, but there are pitfalls to avoid. OpenStack
+  offers open source cloud computing software and we are a young project,
+  less than a year old. Let’s discuss our approach to community documentation,
+  doc sprints, licensing, translation, and volunteer writer management as
+  a case study. I’ll talk about the expectations I had coming in to the
+  project and the realities I’ve learned while implementing my vision.
+  I know I have barely begun to tap the potential of this new
+  community-oriented documentation skill set.</p>
+
+  <list>
+    <item><p><link href="http://www.slideshare.net/annegentle/sprints-and-stacks">Slides</link></p></item>
+  </list>
+</section>
+
+<section id="janet_swisher">
+  <title>Engaging developers in Mozilla’s documentation</title>
+
+  <p><link xref="speakers#janet_swisher"/></p>
+
+  <p>The Mozilla Developer Network site provides documentation not
+  for only developers working on or with Mozilla code, but also for
+  web developers working with open web technologies. I’ll discuss
+  various efforts for encouraging this diverse audience to participate
+  in maintaining the documentation. Some of these are led by Mozilla,
+  such as documentation sprints (both face-to-face and virtual) and
+  “Wiki Wednesdays”. Others are from external sources, such as other
+  browser vendors, and the grassroots “Promote JS” campaign. I’ll
+  talk about how these strategies can be applied to other open source
+  projects.</p>
+
+  <list>
+    <item><p><link href="http://www.slideshare.net/janetswisher/engaging-developers-in-mozilla-docs">Slides</link></p></item>
+  </list>
+</section>
+
+<section id="dru_lavigne">
+  <title>Starting an Open Source Certification Program</title>
+
+  <p><link xref="speakers#dru_lavigne"/></p>
+
+  <p>A certification program adds another level of complexity to a
+  project’s documentation efforts. It also provides opportunity for
+  increased project exposure and product adoption. Furthermore, members
+  of the project’s documentation team often have the knowledge and
+  writing skills required by a certification program’s SMEs (subject
+  matter experts) and authors of training materials. This presentation
+  will discuss what questions need to be answered to determine if a
+  certification program is a good fit for your project. It will also
+  discuss the various components of a certification program with a
+  focus towards the documentation aspects.</p>
+
+  <list>
+    <item><p><link href="http://www.slideshare.net/dlavigne/openhelp11">Slides</link></p></item>
+  </list>
+</section>
+
+<section id="lana_brindley">
+  <title>Open Source Documentation in Four Easy Steps (and one slightly
+  more difficult one)</title>
+
+  <p><link xref="speakers#lana_brindley"/></p>
+
+  <p>In the world of open source documentation, it is important to
+  have a solid process that works. Lana Brindley will discuss how
+  things are done at the world’s leading open source company,
+  including some of the challenges they face in getting the right
+  document into the right hands at the right time, all while keeping
+  it open, and keeping it real.</p>
+
+  <list>
+    <item><p><link href="http://lanabrindley.com/2011/06/13/four-easy-steps/">Blog</link></p></item>
+    <item><p><link href="http://www.slideshare.net/Loquacity/open-source-documentation-in-four-easy-steps-and-one-slightly-more-difficult-one">Slides</link></p></item>
+  </list>
+</section>
+
+<section id="david_robbins">
+  <title>Remember the User!</title>
+
+  <p><link xref="speakers#david_robbins"/></p>
+
+  <p>We live in a world where complexity seems to increase at an
+  exponential rate. Regardless of the “space,” information content
+  and presentation is more important than ever to efficiently and
+  successfully accomplish work. We need to put ourselves in the
+  shoes of end-users to understand their tasks in order to create
+  information that truly assists their processes. Technical writing
+  has contributed much to our understanding of what is needed and
+  how to analyze situations to develop information that is both
+  useful and usable. But it all comes back to remembering the user.
+  As contributors or monitors in collaborative spaces, technical
+  writers and help authors have both expertise and a view that is
+  needed.</p>
+</section>
+
+<section id="shaun_mccance">
+  <title>How Mallard saved (and didn’t) GNOME</title>
+
+  <p><link xref="speakers#shaun_mccance"/></p>
+
+  <p>GNOME has always faced unique challenges in documentation
+  because it has been customized and extended by distributions
+  and vendors. This led to the development of Mallard, a dynamic,
+  topic-oriented help format designed to support third-party
+  additions to documents. Mallard was field tested on some
+  application help documents during the GNOME 2 cycle, and in
+  GNOME 3 the entire desktop help was rewritten in Mallard. A
+  lot of things worked really well. A few things didn’t. Find
+  out how GNOME is pushing innovation in user help, and where
+  we could still do better.</p>
+</section>
+
+<section id="jennifer_zickerman">
+  <title>Coordinating Documentation and Support: Turning Complaints
+  into Contributions</title>
+
+  <p><link xref="speakers#jennifer_zickerman"/></p>
+
+  <p>One objective — often the most important objective — of software
+  documentation is to assist users, which increases user satisfaction
+  and reduces support requirements. By implementing open documentation
+  platforms, and by coordinating documentation processes with user
+  support processes, organizations can engage users who need support
+  and convert them into documentation contributors. This presentation
+  will describe the efforts that Mozilla’s Thunderbird project is
+  undertaking to increase the Thunderbird documentation community by
+  recruiting people who are asking (and answering) questions in
+  Thunderbird’s support channels.</p>
+
+  <list>
+    <item><p><link href="http://www.slideshare.net/jenzed/coordinating-documentation-and-support-turning-complaints-into-contributions">Slides</link></p></item>
+  </list>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

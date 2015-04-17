@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+<info>
+  <title type="link" role="trail">2014</title>
+</info>
+
+<title>Open Help 2014</title>
+
+<media src="openhelp2014.png" width="125" height="125" style="floatstart"/>
+
+<p>The 2014 Open Help Conference &amp; Sprints took place June 14-18
+in downtown Cincinnati, Ohio. Open Help brings together leaders in open
+source documentation and support, as well as people from across the
+technical communications industry who are interested in community-based
+help.</p>
+
+<p>The Open Help Conference features two days of presentations and open
+discussions. In true open source spirit, our discussions and agenda are
+led by our attendees, allowing you to learn and share what matters to
+you most. With some of the most interesting people in the industry, the
+Open Help Conference showcases the ideas that are shaping the future of
+help.</p>
+
+<p>Following the conference, multiple teams take part in the Open Help
+Sprints, collaborative team meetings where people put ideas to work.
+Don’t have a team to bring to the sprint? Join us anyway and learn from
+the people who are pioneering documentation sprints.</p>
+
+<p>Open Help 2014 is over, but you can still have a look at the sessions
+and speakers.</p>
+
+<links type="topic" style="linklist"/>
+
+<section id="sponsors">
+  <title>Sponsors</title>
+
+  <p>Open Help 2014 would not have been possible without our generous sponsors.</p>
+
+  <p><link href="http://mozilla.org/"><media src="mozilla.png" width="200" height="50">Mozilla</media></link></p>
+
+  <p><link href="http://rackspace.com/"><media src="rackspace.png" width="200" height="60">Rackspace</media></link></p>
+</section>
+
+</page>

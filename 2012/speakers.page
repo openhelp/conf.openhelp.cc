@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="speakers">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2012 Speakers</title>
+
+<section id="florian_nadge">
+  <title>Florian Nadge</title>
+
+  <media src="floriannadge.jpg" width="127" height="160" style="floatend">
+    <p>Florian Nadge</p>
+  </media>
+
+  <p>Florian Nadge writes documentation for Fedora and Red Hat.
+  He has worked as a technical writer since 1998 and has been
+  involved in open source since 2004. Besides writing for and
+  about open source projects, he also translates technical and
+  non-technical literature.</p>
+
+  <p><link xref="sessions#florian_nadge"/></p>
+</section>
+
+<section id="shaun_mccance">
+  <title>Shaun McCance</title>
+
+  <media src="shaunmccance.jpg" width="160" height="160" style="floatend">
+    <p>Shaun McCance</p>
+  </media>
+
+  <p>Shaun McCance Shaun has been involved with GNOME documentation
+  since 2003, when he took over development of the help system and
+  leadership of the documentation team. Years of dealing with
+  distribution changes led him to spearhead
+  <link href="http://projectmallard.org/">Mallard</link>, a
+  topic-oriented help format that is designed to support third-party
+  page additions with dynamic navigation. He enjoys the technical
+  side of technical writing, and sometimes blogs about it on
+  <link href="http://blogs.gnome.org/shaunm/">Shaun’s Blog</link>.
+  Shaun runs his own consulting company,
+  <link href="http://syllogist.net/">Syllogist</link>, bringing
+  community-based help to companies.</p>
+
+  <p><link xref="sessions#shaun_mccance"/></p>
+</section>
+
+<section id="jean_weber">
+  <title>Jean Weber</title>
+
+  <media src="jeanweber.jpg" width="115" height="160" style="floatend">
+    <p>Jean Weber</p>
+  </media>
+
+  <p>Jean Weber is the Documentation Team Leader for LibreOffice
+  and a former Co-Lead of Documentation at OpenOffice.org, where
+  she contributed for 7 years. She has written or co-authored a
+  number of books, including
+  <link href="http://www.amazon.com/gp/product/1930919603/">Is the
+  Help Helpful? How to create online help that meets your users’
+  needs</link>. Jean has over 35 years of experience as a scientific
+  and technical editor. writer and publisher, mostly in computing
+  and high-technology industries. She runs several websites,
+  including ones for technical editors
+  (<link href="http://jeanweber.com/">jeanweber.com</link>), travellers
+  to Australia (<link href="http://avalook.com/">avalook.com</link>) and
+  users of LibreOffice
+  (<link href="http://taming-libreoffice.com/">taming-libreoffice.com</link>).</p>
+
+  <p><link xref="sessions#jean_weber"/></p>
+</section>
+
+<section id="sam_kleinman">
+  <title>Sam Kleinman</title>
+
+  <media src="samkleinman.jpg" width="131" height="160" style="floatend">
+    <p>Sam Kleinman</p>
+  </media>
+
+  <p>Sam Kleinman Sam Kleinman works on documentation projects at
+  10gen related to MongoDB, including the
+  <link href="http://docs.mongodb.org/manual/">MongoDB Manual</link>.
+  His projects revolve around making the documentation project
+  maintainable, iterative, participatory, and able to support many
+  different kinds of users. Beyond MongoDB, he’s contributed to
+  documentation about systems administration and open source in
+  a number of professional and avocational contexts. Beyond
+  documentation, he writes quirky science fiction stories and
+  does quirky English ritual (Morris) dance.</p>
+
+  <p><link xref="sessions#sam_kleinman"/></p>
+</section>
+
+<section id="warren_block">
+  <title>Warren Block</title>
+
+  <media src="warrenblock.jpg" width="160" height="160" style="floatend">
+    <p>Warren Block</p>
+  </media>
+
+  <p>After using FreeBSD since 1998 for diverse applications ranging
+  from network monitoring to printer language translation, Warren
+  Block became a FreeBSD documentation committer in 2011. To avoid
+  overexposure, he alternates FreeBSD with repairing electronics,
+  tinkering with microcontrollers, riding touring and mountain
+  bikes, and occasional landscape photography.</p>
+
+  <p><link xref="sessions#warren_block"/></p>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

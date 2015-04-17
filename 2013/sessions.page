@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="sessions">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2013 Sessions</title>
+
+<p>Want to show the world what you’ve been working on? Email your
+proposal to <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link>.
+We’re interested in any topic related to documentation, support, and
+open communities. In particular, we’re excited to see talks related
+to the following:</p>
+
+<list style="compact">
+  <item><p>Engaging user communities to create user-generated content,
+  managing contributions and contributors, and getting people excited
+  about helping other users.</p></item>
+  <item><p>Running effective documentation sprints, either in-person
+  or remotely.</p></item>
+  <item><p>Making documentation available to everybody through better
+  internationalization, localization, and accessibility.</p></item>
+</list>
+
+<p>The Open Help Conference has a heavy focus on open discussion, so
+we prefer presentations that foster discussion and collaboration. Plan
+to speak for 45 minutes. Proposals are evaluated as they come in, so
+send your proposal as soon as possible.</p>
+
+<section id="featured">
+  <title>Featured Presentations</title>
+
+  <section id="janet_swisher">
+    <title>Doc sprints, book sprints, and doc-athons</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#janet_swisher"/></p></item>
+    </list>
+
+    <p>A "documentation sprint" is a short period (typically a few days)
+    when a group of people come together, virtually or actually, to
+    collaborate on writing documentation on a given topic or related
+    topics. Find out how several projects and organizations have
+    implemented this idea to boost their content and enhance their
+    documentation community. Learn tips for running a successful doc
+    sprint.</p>
+  </section>
+
+  <section id="rich_bowen">
+    <title>Listening to your Audience</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#rich_bowen"/></p></item>
+    </list>
+
+    <p>Too often, we write docs for ourselves, and either don’t listen
+    to our audience at all, or tell them that they’re asking the wrong
+    questions. But if the docs don’t answer questions that the readers
+    are actually asking, they’re going to go somewhere else for those
+    answers. In this talk, Rich will talk about listening to users, and
+    what things we might be able to do to encourage them to talk to us.</p>
+  </section>
+
+  <section id="lee_hunter">
+    <title>Drupal for Tech Comm: Walkthrough to full-featured CMS</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#lee_hunter"/></p></item>
+    </list>
+
+    <p>This year, Provonix, a Drupal shop based in Belgium, introduced
+    Walkthrough, a tool that leverages new Drupal features to allow the
+    easy creation and management of virtual web tours and tutorials that
+    can step the user through complex workflows. In this talk, we’ll
+    look at why people are excited about Walkthrough and we’ll discuss
+    how Drupal is evolving into an increasingly useful platform for
+    technical communication.</p>
+  </section>
+
+  <section id="jorge_castro">
+    <title>Solving the Q+A conundrum with StackExchange</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#jorge_castro"/></p></item>
+    </list>
+
+    <p>Three years ago StackExchange opened up a process that allows
+    projects to run their own StackOverflow-like site if there was
+    community interest. Ubuntu applied and launched “Ask Ubuntu”,
+    which has been growing steadily. But how do StackExchanges fit
+    with other project resources? Many projects have wikis, mailing
+    lists, and forums, how does an SE site fit in a way that doesn’t
+    make those things redundant? What about open source clones of SE?
+    How do they measure up? In this talk I will share some lessons
+    workflows, governance, and moderation to make the site useful
+    for users.</p>
+  </section>
+
+  <section id="noirin_plunkett">
+    <title>Documentation: Don’t be Afraid</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#noirin_plunkett"/></p></item>
+    </list>
+
+    <p>Whether you’re just rolling out a new project, or you’re
+    maintaining ten years and three major versions of legacy code,
+    good documentation is vital for your users. But writing good
+    docs doesn’t need to be a long, painful process. This talk will
+    get you started - and finished! - in no time.</p>
+
+    <p>From first drafts to final revisions, we’ll discuss how to get
+    started, how to build on what you already have, and even some ideas
+    for attracting volunteers to help document your project.</p>
+  </section>
+
+  <section id="michael_verdi">
+    <title>How Mozilla supports users all over the world</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#michael_verdi"/></p></item>
+    </list>
+
+    <p>The Mozilla support platform is built around a fully
+    localizable wiki and an awesome community of volunteers.
+    Together we’re able to support nearly half a billion users
+    in dozens of languages. This talk will look at some of the
+    lessons we’ve learned about writing good docs and helping
+    users find them.</p>
+  </section>
+
+  <section id="support">
+    <title>Open Support: A Panel Discussion</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#jorge_castro"/></p></item>
+      <item><p><link xref="speakers#jeremy_garcia"/></p></item>
+      <item><p><link xref="speakers#siko_bouterse"/></p></item>
+      <item><p><link xref="speakers#michael_verdi"/></p></item>
+    </list>
+
+    <p>How do you keep a community engaged in providing support
+    for users? How do you make sure users get the answers they
+    need and get a good impression of your community? Join us
+    for a lively panel discussion with experts in community-based
+    support systems. Be prepared to join in the discussion with
+    questions and your own experiences.</p>
+  </section>
+</section>
+
+<section id="briefs">
+  <title>Demos and Briefs</title>
+
+  <p>Do you have something you want to show off, or something
+  quick to say without preparing a full talk? We have slots for
+  demos and brief talks. Briefs can be as short as a few minutes
+  or as long as 15 minutes, but be prepared for questions. Email
+  <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link>
+  with a short description.</p>
+
+  <section id="teahouse">
+    <title>Can Help be Fun? A Wikipedia Experiment with Social Help</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#siko_bouterse"/></p></item>
+      <item><p>Jake Orlowitz</p></item>
+    </list>
+
+    <p>A year ago Wikipedia launched the Teahouse, a new-contributor
+    support space with an intentional welcoming and playful tone, in
+    a community that wasn’t known for its enthusiastically friendly
+    response to new contributors. We focused on creative design,
+    surfaced profiles of real helpers, emphasized invitation and
+    personalization in Q&amp;A forum responses, and implemented a
+    badges program to motivate and acknowledge participants. Help
+    forums that teach serious activities don’t have to be isolated
+    and dry: they can be fun, supportive, and social experiences.
+    We’ll show you why we think spaces like this can not only
+    provide answers to contributors when they are stuck, they can
+    create a sense of community and maybe even spark positive
+    culture change.</p>
+  </section>
+
+  <section id="wikipedia">
+    <title>Wikipedia: Too much documentation?</title>
+
+    <list style="compact">
+      <item><p>Peeter Coombe</p></item>
+    </list>
+
+    <p>Wikipedia’s internal documentation has grown almost as
+    rapidly as its articles. New editors seeking help easily
+    find themselves overwhelmed. With editor numbers in decline,
+    lowering these barriers to entry is crucial to the site’s
+    future. In this talk I’ll briefly cover some of the biggest
+    challenges, and how we’ve been trying to address them.</p>
+  </section>
+
+  <section id="gnome">
+    <title>Translatable Videos</title>
+
+    <p>GNOME 3.8 features new
+    <link href="https://help.gnome.org/users/gnome-help/stable/getting-started">getting
+    started videos</link>. These videos are built from SVG
+    resources that are translated with the ITS-based XML
+    translation tool <link href="http://itstool.org/">itstool</link>.
+    Members of the GNOME documentation team will show how it all works.</p>
+  </section>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

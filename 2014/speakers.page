@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="speakers">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2014 Speakers</title>
+
+<section id="eric_shepherd">
+  <title>Eric Shepherd</title>
+
+  <media src="ericshepherd.png" width="113" height="156" style="floatend">
+    <p>Eric Shepherd</p>
+  </media>
+
+  <p>Eric Shepherd is the developer documentation lead for Mozilla
+  Corporation. His job is to organize, manage, and create documentation
+  that doesn’t suck for the Mozilla project (including the popular
+  Firefox web browser). In addition, he helps guide the overall
+  direction of documentation content and tries to encourage
+  participation in the open documentation project.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#eric_shepherd"/></p></item>
+  </list>
+</section>
+
+<section id="rich_bowen">
+  <title>Rich Bowen</title>
+
+  <media src="richbowen.jpg" width="160" height="160" style="floatend">
+    <p>Rich Bowen</p>
+  </media>
+
+  <p>Rich Bowen is the OpenStack Community Liaison at Red Hat,
+  and a director of the Apache Software Foundation. He lives in
+  Lexington, Kentucky. He's been writing docs since finding a
+  typo in 1997.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#rich_bowen"/></p></item>
+  </list>
+</section>
+
+<section id="shaun_mccance">
+  <title>Shaun McCance</title>
+
+  <media src="shaunmccance.jpg" width="160" height="160" style="floatend">
+    <p>Shaun McCance</p>
+  </media>
+
+  <p>Shaun McCance spent a decade leading the GNOME documentation
+  team and building Mallard, the topic-oriented help system used by
+  GNOME and other desktops. He likes to help with any open source
+  documentation effort he runs across, and is currently paid by
+  Cisco to work on the OpenStack documentation.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#shaun_mccance"/></p></item>
+  </list>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

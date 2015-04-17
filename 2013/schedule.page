@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="schedule">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2013 Schedule</title>
+
+<section id="friday">
+  <title>Friday, June 14</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:30pm</p></td>
+      <td><p>midnight or later</p></td>
+      <td><p>Reception at <link href="http://www.viaviterestaurant.com/">Via Vite</link>
+      on <link href="http://myfountainsquare.com/">Fountain Square</link>, the heart of
+      downtown Cincinnati. With their artisan, brick-oven-fired pizzas, Via Vite is one
+      of the Cincinnati’s favorite restaurants.</p>
+
+      <p>Open Help has a private second-floor dining area, including a terrace with
+      couches overlooking Fountain Square. Have some great food, then hang out and
+      enjoy the
+      <link href="http://myfountainsquare.com/event/midpoint-indie-summer-3/2013-06-14/">music
+      on the square</link>.</p>
+
+      <p><link href="http://maps.google.com/maps?saddr=Garfield+Suites+Hotel,+Garfield+Place,+Cincinnati,+OH&amp;daddr=Via+Vite,+520+Vine+Street,+Cincinnati,+OH+45202&amp;hl=en&amp;sll=39.102707,-84.51278&amp;sspn=0.008576,0.021136&amp;geocode=FY-wVAIdIGv2-iEfH3mub5d2oykNB5chV7FBiDEfH3mub5d2ow%3BFUmlVAId92_2-il79mySULFBiDHbY8G0i1UuNw&amp;oq=Garfield+Sui&amp;dirflg=w&amp;mra=ltm&amp;t=m&amp;z=17">View walking directions from Garfield Suites.</link></p>
+
+      <p>Getting in earlier? Why not enjoy
+      <link href="http://myfountainsquare.com/event/4eg-happy-hour-5/2013-06-14/">happy
+      hour</link> on the square? Or take a walk along Cincinnati’s riverfront.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="saturday">
+  <title>Saturday, June 15</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>9:30am</p></td>
+      <td><p>Breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>9:30am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Opening remarks</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>11:00am</p></td>
+      <td><p><link xref="sessions#jorge_castro"/> —
+      <link xref="speakers#jorge_castro"/></p></td>
+    </tr>
+    <tr>
+      <td><p>11:00am</p></td>
+      <td><p>12:00pm</p></td>
+      <td><p><link xref="sessions#michael_verdi"/> —
+      <link xref="speakers#michael_verdi"/></p></td>
+    </tr>
+    <tr>
+      <td><p>12:00pm</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p><link xref="sessions#support"/> —
+      <link xref="speakers#jorge_castro"/>,
+      <link xref="speakers#jeremy_garcia"/>,
+      <link xref="speakers#siko_bouterse"/>,
+      <link xref="speakers#michael_verdi"/></p></td>
+    </tr>
+    <tr>
+      <td><p>1:00pm</p></td>
+      <td><p>2:00pm</p></td>
+      <td><p>Lunch in the park: Lunch will be served in Piatt Park,
+      just outside the Garfield Suites, and catered by
+      <link href="http://www.aquariusstar.com/home/cafe.html">Om Cafe</link>.
+      Enjoy locally-sourced, organic sandwiches served on fresh,
+      home-made pitas.</p></td>
+    </tr>
+    <tr>
+      <td><p>2:00pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p><link xref="sessions#rich_bowen"/> —
+      <link xref="speakers#rich_bowen"/></p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sunday">
+  <title>Saturday, June 16</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>11:00am</p></td>
+      <td><p><link xref="sessions#noirin_plunkett"/> —
+      <link xref="speakers#noirin_plunkett"/></p></td>
+    </tr>
+    <tr>
+      <td><p>11:00am</p></td>
+      <td><p>12:00pm</p></td>
+      <td><p><link xref="sessions#lee_hunter"/> —
+      <link xref="speakers#lee_hunter"/></p></td>
+    </tr>
+    <tr>
+      <td><p>12:00pm</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p><link xref="sessions#briefs"/></p></td>
+    </tr>
+    <tr>
+      <td><p>1:00pm</p></td>
+      <td><p>2:00pm</p></td>
+      <td><p>Lunch in the park: Lunch will be served in Piatt Park,
+      just outside the Garfield Suites, and catered by
+      <link href="http://www.aquariusstar.com/home/cafe.html">Om Cafe</link>.
+      Enjoy locally-sourced, organic sandwiches served on fresh,
+      home-made pitas.</p></td>
+    </tr>
+    <tr>
+      <td><p>2:00pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p><link xref="sessions#janet_swisher"/> —
+      <link xref="speakers#janet_swisher"/></p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+
+<links type="guide" style="hidden"/>
+
+</page>

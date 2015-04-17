@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+<info>
+  <title type="link" role="trail">2013</title>
+</info>
+
+<title>Open Help 2013</title>
+
+<media src="openhelp2013.png" width="125" height="125" style="floatstart"/>
+
+<p>The 2013 Open Help Conference &amp; Sprints took place June 15-19
+in downtown Cincinnati, Ohio. Open Help brings together leaders
+in open source documentation and support, as well as people from
+across the technical communications industry who are interested
+in community-based help.</p>
+
+<p>The Open Help Conference features two days of presentations and
+open discussions. In true open source spirit, our discussions and
+agenda are led by our attendees, allowing you to learn and share
+what matters to you most. Following the conference, rive teams
+take part in the Open Help Sprints, collaborative team meetings
+where people put ideas to work.</p>
+
+<p>Open Help 2013 is over, but you can still have a look at the
+sessions and speakers:</p>
+
+<links type="topic" style="linklist"/>
+
+<section id="sponsors">
+  <title>Sponsors</title>
+
+  <p>Open Help 2013 would not have been possible without our
+  generous sponsors.</p>
+
+  <p><link href="http://redhat.com/"><media src="redhat.png" width="200" height="60">Red Hat</media></link></p>
+
+  <p><link href="http://mozilla.org/"><media src="mozilla.png" width="200" height="50">Mozilla</media></link></p>
+
+  <p><link href="http://github.com/"><media src="github.png" width="135" height="60">GitHub</media></link></p>
+
+  <p><link href="http://wordpress.org/"><media src="wordpress.png" width="262" height="60">WordPress</media></link></p>
+</section>
+
+</page>

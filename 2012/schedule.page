@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="schedule">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2012 Schedule</title>
+
+<section id="friday">
+  <title>Friday, August 10</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>6:00pm</p></td>
+      <td><p>9:00pm</p></td>
+      <td><p>Reception at <link href="http://www.joescrabshack.com/">Joe’s Crab Shack</link> at
+      <link href="http://maps.google.com/maps?q=25+Fairfield+Avenue,+Bellevue,+KY&amp;hl=en&amp;ll=39.102008,-84.488661&amp;spn=0.01069,0.018368&amp;sll=39.103906,-84.489241&amp;sspn=0.01069,0.018368&amp;hnear=25+Fairfield+Ave,+Bellevue,+Campbell,+Kentucky+41073&amp;t=m&amp;z=16">25 Fairfield Ave</link>
+      in Bellevue, KY, just across the street from the Comfort Suites.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="saturday">
+  <title>Saturday, August 11</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>8:30am</p></td>
+      <td><p>Breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>8:30am</p></td>
+      <td><p>9:00am</p></td>
+      <td><p>Opening remarks</p></td>
+    </tr>
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p><link xref="sessions#florian_nadge"/> —
+      <link xref="speakers#florian_nadge"/></p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>11:00am</p></td>
+      <td><p><link xref="sessions#warren_block"/> —
+      <link xref="speakers#warren_block"/></p></td>
+    </tr>
+    <tr>
+      <td><p>11:00am</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p><link xref="sessions#tools"/> and open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>1:00pm</p></td>
+      <td><p>2:00pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>2:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sunday">
+  <title>Sunday, August 12</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>9:00am</p></td>
+      <td><p>Breakfast and open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p><link xref="sessions#sam_kleinman"/> —
+      <link xref="speakers#sam_kleinman"/></p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>11:00am</p></td>
+      <td><p><link xref="sessions#jean_weber"/> —
+      <link xref="speakers#jean_weber"/></p></td>
+    </tr>
+    <tr>
+      <td><p>11:00am</p></td>
+      <td><p>12:00pm</p></td>
+      <td><p><link xref="sessions#shaun_mccance"/> —
+      <link xref="speakers#shaun_mccance"/></p></td>
+    </tr>
+    <tr>
+      <td><p>12:00pm</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>1:00pm</p></td>
+      <td><p>2:00pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>2:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

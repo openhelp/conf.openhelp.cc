@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="sessions">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2012 Sessions</title>
+
+<section id="tools">
+  <title>Tools Showcase</title>
+
+  <p>Open source folks are known for not accepting the status quo.
+  When off-the-shelf tools don’t do what we need, we create the
+  tools that we need to build the systems we want. Come share your
+  innovations in documentation tools in the tool showcase.</p>
+
+  <list>
+    <item>
+      <p><link xref="speakers#florian_nadge"/>:
+      <em style="strong">Publican</em>, which has been used by the
+      Red Hat Engineering Content Services and a variety open source
+      projects for several years, takes DocBook XML input and outputs
+      HTML, plain Unicode text and PDF and can be custom-branded.
+      <link href="https://fedorahosted.org/publican/">https://fedorahosted.org/publican/</link></p>
+    </item>
+    <item>
+      <p><link xref="speakers#shaun_mccance"/>:
+      <em style="strong">ITS Tool</em> lets you round-trip XML
+      translations through standard PO files. Everything it knows
+      comes from W3C Internationalization Tag Set (ITS) rules,
+      making it easy to teach it your favorite XML vocabulary.
+      <link href="http://itstool.org/">http://itstool.org/</link></p>
+    </item>
+    <item>
+      <p>Janet Swisher: <em style="strong">Kuma</em> is Mozilla’s new
+      wiki platform for developer documentation, used in the
+      <link href="https://developer.mozilla.org/">Mozilla Developer
+      Network</link> site. Written in the Django framework, and based
+      on the Kitsune codebase used in Mozilla’s end-user support site,
+      Kuma is designed specifically to meet the needs of
+      developer-oriented documentation content.</p>
+      <list style="compact">
+	<item><p><link href="http://www.youtube.com/watch?v=iSvN_j_hm_k">Video</link></p></item>
+      </list>
+    </item>
+    <item>
+      <p>Janet Swisher: <em style="strong">Popcorn Maker</em> is a
+      Web-based authoring environment that enables non-programmers to
+      create interactive HTML5 media experiences, with no coding
+      required. It supports plug-ins for a wide variety of content
+      sources, such as Vimeo, Twitter, Google Maps, and many others.
+      This has great potential for technical communication, as video
+      content can now break out of its box and interact with the
+      rest of the Web.</p>
+      <list style="compact">
+	<item><p><link href="http://www.youtube.com/watch?v=y00yjFhbb9s">Video</link></p></item>
+      </list>
+    </item>
+    <item>
+      <p>Anne Gentle: The <em style="strong">Clouddocs Maven</em> plugin
+      used for the OpenStack project is a lot like Publican, taking DocBook
+      source and turning it into PDF or webhelp output with branding options.
+      It can also use embedded WADL to output REST API documentation and
+      integrates easily into Jenkins for continuous integration with
+      documentation tools. Source is available at
+      <link href="https://github.com/rackspace/clouddocs-maven-plugin">https://github.com/rackspace/clouddocs-maven-plugin</link>
+      and collaborators are welcomed.</p>
+      <list style="compact">
+	<item><p><link href="http://www.youtube.com/watch?v=4ea_3NdzNuk">Video</link></p></item>
+      </list>
+    </item>
+  </list>
+</section>
+
+<section id="florian_nadge">
+  <title>Writing for Translation</title>
+
+  <p><link xref="speakers#florian_nadge"/></p>
+
+  <p>There are not many projects left that get away without localizing
+  at least into 10 languages. However, translators often struggle with
+  documentation that is inconsistent, uses hard-to-translate language,
+  and is simply not written with the translator in mind. This
+  presentation takes a quick look at different ways how to increase
+  clarity and control language.</p>
+
+  <list style="compact">
+    <item><p><link href="http://pmkovar.fedorapeople.org/simple_writing_oh_fnadge.pdf">Slides</link></p></item>
+    <item><p><link href="http://www.youtube.com/watch?v=OKCYB9VX58Q">Video</link></p></item>
+  </list>
+</section>
+
+<section id="shaun_mccance">
+  <title>Accessible Documentation</title>
+
+  <p><link xref="speakers#shaun_mccance"/></p>
+
+  <p>What good is documentation if you can’t use it? Making your
+  documentation accessible means it’s available to all users,
+  regardless of physical ability. As modern documentation moves
+  beyond books and includes more video and dynamic user
+  interactivity, accessibility becomes more difficult, and more
+  important than ever. With help from the GNOME accessibility
+  team, one of the leading open source accessibility efforts,
+  Shaun will present potential accessibility problems along
+  with practical solutions.</p>
+</section>
+
+<section id="jean_weber">
+  <title>Successes and challenges in LibreOffice user documentation</title>
+
+  <p><link xref="speakers#jean_weber"/></p>
+
+  <p>As an all-volunteer group, the LibreOffice Documentation Team
+  faces challenges in addition to those faced by groups with paid
+  staff: balancing the “wish list” with the skills, knowledge, and
+  available time of volunteers who come and go unpredictably; far
+  too few volunteers, particularly those willing and able to accept
+  responsibility and do productive work without extensive mentoring.
+  LibreOffice is a big product with a diverse user audience. Jean
+  will report on the current state of the project and plans for the
+  future, which include more integration with certification,
+  training, and user support.</p>
+</section>
+
+<section id="sam_kleinman">
+  <title>Documentation is Code is Documentation: Writing Documentation
+  for and with Developers</title>
+
+  <p><link xref="speakers#sam_kleinman"/></p>
+
+  <p>The MongoDB documentation is unique in that its users are
+  almost exclusively developers or systems administrators. Until
+  I joined the team last year, most contributors to the documentation
+  were MongoDB developers themselves. While the revision process for
+  the MongoDB documentation is significant and ongoing, the audience
+  hasn’t changed and finding the best way to engage and serve the
+  needs of developers and administrators remains central to our
+  documentation process. Additionally, as a component of an open
+  source project, the MongoDB documentation project aims to operate
+  as an open source project itself.</p>
+
+  <p>This talk explores the challenges and strategies of two related
+  concepts: writing documentation for developers and writing document
+  with developers. The presentation will discuss the tools, processes,
+  and organizational tactics that we’ve used to develop documentation.</p>
+</section>
+
+<section id="warren_block">
+  <title>Automating Documentation Proofreading</title>
+
+  <p><link xref="speakers#warren_block"/></p>
+
+  <p>Few people like to work on documentation. There are numerous
+  rules for wildly-varying documentation formats, many rarely used
+  and hard to remember. An automatic proofreader to check for errors
+  ranging from spelling to meeting all the arcane formatting rules of
+  the different toolchains would relieve much of the stress. Not only
+  will this encourage improving the documentation, it helps to prevent
+  errors in the first place, and detect those that have slipped through
+  already. Clean, consistent files are easier to maintain, expand, and
+  convert to new formats. The automated proofreader, named “igor” after
+  a famous lab assistant, helps the writer focus on improving the
+  content of their document.</p>
+
+  <list style="compact">
+    <item><p><link href="http://www.wonkity.com/~wblock/igor/igor.pdf">Slides</link></p></item>
+    <item><p><link href="http://www.youtube.com/watch?v=sczHqUPygZY">Video</link></p></item>
+  </list>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>
