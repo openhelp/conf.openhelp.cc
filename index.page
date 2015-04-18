@@ -5,7 +5,29 @@
       id="index">
 
 <info>
+  <title type="text">Open Help Conference &amp; Sprints</title>
   <title type="link">Open Help</title>
+  <div class="sidebar" xmlns="http://www.w3.org/1999/xhtml">
+    <div class="inner">
+    <h2>Spread the word !</h2>
+    <p><a href="https://twitter.com/openhelpconf"
+    class="twitter-follow-button"
+    data-show-count="false" data-size="large">Follow @openhelpconf</a></p>
+    <p><a href="https://www.youtube.com/user/openhelpconference">Watch Open Help on YouTube</a></p>
+<!--
+    <p><a href="http://lanyrd.com/2014/openhelp/">Track Open Help on Lanyrd</a></p>
+    <p><a href="/banner">Add this banner to your website</a>
+  <div><img src="/2014/openhelp2014.png"></div></p>
+-->
+    <p><a class="twitter-timeline" height="400"
+    href="https://twitter.com/search?q=%23openhelp"
+    data-widget-id="318383131335983105"
+    data-link-color="#204a87"
+    data-border-color="#cccccc"
+    >Tweets about "#openhelp"</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
 </info>
 
 <title></title>

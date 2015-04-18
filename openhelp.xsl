@@ -4,6 +4,7 @@
                 xmlns:exsl="http://exslt.org/common"
                 xmlns:str="http://exslt.org/strings"
                 xmlns:mal="http://projectmallard.org/1.0/"
+                xmlns:html="http://www.w3.org/1999/xhtml"
                 xmlns="http://www.w3.org/1999/xhtml"
                 extension-element-prefixes="exsl"
                 exclude-result-prefixes="mal str"
@@ -18,7 +19,7 @@
 <xsl:template name="html.head.custom">
   <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"/>
   <link href="http://fonts.googleapis.com/css?family=Bitter:400,700" rel="stylesheet" type="text/css"/>
-  <link href="http://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Handlee:400,700" rel="stylesheet" type="text/css"/>
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 </xsl:template>
 
@@ -138,6 +139,32 @@ div.page {
   max-width: 100%;
   background: white;
 }
+div.sidebar {
+  max-width: 760px;
+  margin: 0 auto;
+  position: relative;
+}
+div.sidebar > div.inner {
+  position: absolute;
+  right: 0;
+  width: 250px;
+  padding: 20px 10px;
+  background: #eee;
+  border-left: solid 1px #bbb;
+  border-right: solid 1px #bbb;
+  border-bottom: solid 1px #bbb;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+div.sidebar + div.page div.body {
+  max-width: 470px;
+  padding-right: 290px;
+}
+div.sidebar h2 {
+  font-family: Handlee;
+  font-size: 20pt;
+  text-shadow: 1px 1px 0 #eee, 2px 2px 0 #bbb;
+}
 div.header {
   padding-top: 20px;
   border: solid 1px white;
@@ -160,7 +187,6 @@ div.footer {
   margin: 0 auto;
 }
 div.body {
-  margin: 0;
   padding: 0 0 40px 0;
   max-width: 760px;
   margin: 0 auto;
@@ -242,39 +268,10 @@ div.media.floatend img {
       </ul>
     </div>
   </div>
+  <xsl:copy-of select="$node/mal:info/html:div[@class = 'sidebar']"/>
 </xsl:template>
 
 <xsl:template match="mal:links[@type = 'guide'][@style = 'hidden']"/>
-
-<!--
-<xsl:template mode="html.header.mode" match="mal:page">
-  <xsl:choose>
-    <xsl:when test="string(@style) = 'pmo-source'">
-      <xsl:for-each select="$mal.cache">
-        <xsl:variable name="srclink" select="mal:p[1]/mal:link[1]"/>
-        <xsl:variable name="srckey">
-          <xsl:call-template name="mal.link.xref.linkid">
-            <xsl:with-param name="node" select="$srclink"/>
-          </xsl:call-template>
-        </xsl:variable>
-        <xsl:variable name="srcnode" select="key('mal.cache.key', $srckey)"/>
-        <xsl:call-template name="mal2html.page.linktrails">
-          <xsl:with-param name="node" select="$srcnode"/>
-        </xsl:call-template>
-      </xsl:for-each>
-    </xsl:when>
-    <xsl:otherwise>
-      <xsl:call-template name="mal2html.page.linktrails">
-        <xsl:with-param name="node" select="."/>
-      </xsl:call-template>
-    </xsl:otherwise>
-  </xsl:choose>
-</xsl:template>
--->
-
-<!--
-<xsl:template mode="html.footer.mode" match="mal:page"/>
--->
 
 <!--
 <xsl:template name="html.bottom.custom">
