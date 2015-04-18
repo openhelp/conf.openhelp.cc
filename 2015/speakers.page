@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="speakers">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2015 Speakers</title>
+
+<p>Want to show the world what you’ve been working on? See the
+<link xref="sessions">Sessions</link> page for details on submitting
+a proposal for a talk or demo.</p>
+
+<links type="guide" style="hidden"/>
+
+</page>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="schedule">
+
+<info>
+  <link type="guide" xref="index"/>
+</info>
+
+<title>2015 Schedule</title>
+
+<section id="friday">
+  <title>Friday, September 25</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:30pm</p></td>
+      <td><p>midnight or later</p></td>
+      <td><p>Friday evening reception. Details to be announced.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="saturday">
+  <title>Saturday, September 26</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Breakfast in the reading room</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>1:30pm</p></td>
+      <td><p>Team intros and sessions</p></td>
+    </tr>
+    <tr>
+      <td><p>1:30pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Sessions and open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sunday">
+  <title>Sunday, September 27</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Breakfast and open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>1:00pm</p></td>
+      <td><p>Sessions and open discussion</p></td>
+    </tr>
+    <tr>
+      <td><p>1:30pm</p></td>
+      <td><p>3:00pm</p></td>
+      <td><p>Lunch</p></td>
+    </tr>
+    <tr>
+      <td><p>3:00pm</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Sessions and open discussion</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sprints">
+  <title>September 28-30</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Team sprints</p></td>
+    </tr>
+  </table>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

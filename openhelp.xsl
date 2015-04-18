@@ -260,9 +260,9 @@ div.media.floatend img {
     <div class="topnav">
       <ul>
         <li><a href="{$mal.site.root}{$rootlink}">Home</a></li>
-        <li><a href="{$mal.site.root}2014/schedule{$mal.link.extension}">Schedule</a></li>
-        <li><a href="{$mal.site.root}2014/sessions{$mal.link.extension}">Sessions</a></li>
-        <li><a href="{$mal.site.root}2014/speakers{$mal.link.extension}">Speakers</a></li>
+        <li><a href="{$mal.site.root}2015/schedule{$mal.link.extension}">Schedule</a></li>
+        <li><a href="{$mal.site.root}2015/sessions{$mal.link.extension}">Sessions</a></li>
+        <li><a href="{$mal.site.root}2015/speakers{$mal.link.extension}">Speakers</a></li>
         <li><a href="{$mal.site.root}location{$mal.link.extension}">Location</a></li>
         <li><a href="{$mal.site.root}register{$mal.link.extension}">Register</a></li>
       </ul>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+<info>
+  <title type="link" role="trail">2015</title>
+</info>
+
+<title>Open Help 2014</title>
+
+<!--
+<media src="openhelp2015.png" width="125" height="125" style="floatstart"/>
+-->
+
+<links type="topic" style="linklist"/>
+
+<section id="sponsors">
+  <title>Sponsors</title>
+
+  <p>Interested in sponsoring the Open Help Conference? Sponsorship
+  helps you promote your company to leaders in open source and
+  technical communications. Email
+  <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> for
+  more information.</p>
+</section>
+
+</page>
