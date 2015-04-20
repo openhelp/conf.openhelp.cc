@@ -264,7 +264,7 @@ div.media.floatend img {
         <li><a href="{$mal.site.root}2015/sessions{$mal.link.extension}">Sessions</a></li>
         <li><a href="{$mal.site.root}2015/speakers{$mal.link.extension}">Speakers</a></li>
         <li><a href="{$mal.site.root}location{$mal.link.extension}">Location</a></li>
-        <li><a href="{$mal.site.root}register{$mal.link.extension}">Register</a></li>
+        <li><a href="https://ti.to/openhelp/2015">Register</a></li>
       </ul>
     </div>
   </div>
