@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="location">
+
+<info>
+  <title type="text">Open Help Location</title>
+</info>
+
+<title>Location</title>
+
+<p>Open Help 2015 will be held at the historic
+<link href="http://new.mercantilelibrary.com/">Mercantile Library</link>
+at 414 Walnut St in downtown Cincinnati. Enter the building from the
+Walnut St entrance, then take the first elevator to your left to the
+eleventh floor.</p>
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+<iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.2558015108602!2d-84.51095699999999!3d39.100646000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b15a887fa10f%3A0xf1fd765c7d16db84!2sMercantile+Library!5e0!3m2!1sen!2sus!4v1429546024527"
+    width="100%" height="450" frameborder="0" style="border:0"></iframe>
+</div>
+
+<section id="hotels">
+  <title>Hotels</title>
+
+  <p>We are currently negotiating a room block with a nearby hotel.</p>
+</section>
+
+<section id="transportation">
+  <title>Transportation</title>
+
+  <p>Cincinnati is served by the
+  <link href="http://www.cvgairport.com/">Cincinnati/Northern Kentucky
+  International Airport (CVG)</link>. Shuttles between the airport and downtown are
+  available from
+  <link href="http://executivetransportation.org/">Executive Transportation</link>
+  at $32 round-trip.</p>
+
+  <p>Use the
+  <link href="http://www.go-metro.com/">Cincinnati Metro bus</link> to visit other
+  parts of Cincinnati, or the
+  <link href="http://www.tankbus.org/">TANK bus</link> to visit Northern Kentucky.</p>
+</section>
+
+</page>

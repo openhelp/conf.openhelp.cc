@@ -273,6 +273,10 @@ div.media.floatend img {
 
 <xsl:template match="mal:links[@type = 'guide'][@style = 'hidden']"/>
 
+<xsl:template mode="mal2html.block.mode" match="html:*">
+  <xsl:copy-of select="."/>
+</xsl:template>
+
 <!--
 <xsl:template name="html.bottom.custom">
   <div class="bottom"><div class="content">
