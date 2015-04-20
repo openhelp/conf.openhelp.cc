@@ -21,6 +21,7 @@
   <link href="http://fonts.googleapis.com/css?family=Bitter:400,700" rel="stylesheet" type="text/css"/>
   <link href="http://fonts.googleapis.com/css?family=Handlee:400,700" rel="stylesheet" type="text/css"/>
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <meta property="og:image" content="http://conf.openhelp.cc/oh.png"/>
 </xsl:template>
 
 <xsl:template name="html.css.custom">
