@@ -6,6 +6,19 @@
 
 <info>
   <link type="guide" xref="index"/>
+  <div class="sidebar" xmlns="http://www.w3.org/1999/xhtml">
+    <div class="inner">
+    <h2>What’s It Like?</h2>
+    <p>Check out the sessions from
+    <a href="/2014/index">2014</a>, <a href="/2013/index">2013</a>,
+    <a href="/2012/index">2012</a>, and <a href="/2011/index">2011</a>.</p>
+    <p><a href="https://www.youtube.com/user/openhelpconference">Watch Open Help on YouTube</a></p>
+    <p><a href="https://twitter.com/openhelpconf"
+    class="twitter-follow-button"
+    data-show-count="false" data-size="large">Follow @openhelpconf</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
 </info>
 
 <title>2015 Sessions</title>
