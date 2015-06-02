@@ -40,6 +40,11 @@ div.logo {
   height: 300px;
   position: relative;
 }
+div.logohead {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
 div.logo img.logo {
   display: inline-block;
   margin: 0;
@@ -97,7 +102,7 @@ div.logo h3 {
 }
 
 div.topnav {
-  background: rgba(87, 64, 48, 0.7);
+  background: rgba(254, 251, 198, 0.3);
   margin: 0;
   position: absolute;
   bottom: 0px;
@@ -105,9 +110,9 @@ div.topnav {
 }
 div.topnav ul {
   display: block;
-  max-width: 760px;
+  max-width: 940px;
   margin: 0 auto;
-  padding: 0;
+  padding: 0 10px;
 }
 div.topnav li {
   display: inline-block;
@@ -124,8 +129,8 @@ div.topnav li a {
 }
 div.topnav li a:hover {
   border: none;
-  color: #204a87;
-  background-color: #eeeeec;
+  background: rgba(254, 251, 198, 0.6);
+  color: black;
   text-shadow: none;
 }
 
@@ -141,36 +146,39 @@ div.page {
   background: white;
 }
 div.sidebar {
-  max-width: 760px;
+  max-width: 940px;
   margin: 0 auto;
+  padding: 0 10px;
   position: relative;
 }
 div.sidebar > div.inner {
   position: absolute;
-  right: 0;
-  width: 250px;
-  padding: 20px 10px;
-  background: #eee;
-  border-left: solid 1px #bbb;
-  border-right: solid 1px #bbb;
-  border-bottom: solid 1px #bbb;
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
+  right: 10px;
+  width: 300px;
+  padding: 20px 0;
 }
 div.sidebar + div.page div.body {
-  max-width: 470px;
-  padding-right: 290px;
+  max-width: 620px;
+  padding-right: 330px;
 }
 div.sidebar h2 {
   font-family: Handlee;
   font-size: 20pt;
-  text-shadow: 1px 1px 0 #eee, 2px 2px 0 #bbb;
+}
+@media only screen and (max-width: 600px) {
+  div.sidebar {
+    display: none;
+  }
+  div.sidebar + div.page div.body {
+    padding-right: 10px;
+  }
 }
 div.header {
   padding-top: 20px;
   border: solid 1px white;
-  max-width: 760px;
+  max-width: 940px;
   margin: 0 auto;
+  padding: 0 10px;
 }
 div.trails {
   background: white;
@@ -178,18 +186,22 @@ div.trails {
   padding: 0;
   font-family: Bitter;
 }
+div.trail {
+  padding-top: 20px;
+}
 @media only screen and (max-width: 400px) {
   div.trails {
     padding: 0.5em 6px 0.5em 6px;
   }
 }
 div.footer {
-  max-width: 760px;
+  max-width: 940px;
   margin: 0 auto;
+  padding: 0 10px;
 }
 div.body {
-  padding: 0 0 40px 0;
-  max-width: 760px;
+  padding: 0 10px 40px 10px;
+  max-width: 940px;
   margin: 0 auto;
 }
 div.sect div.sect { margin-left: 0; }
@@ -251,12 +263,14 @@ div.media.floatend img {
   </xsl:variable>
   <div class="banner"></div>
   <div class="logo">
+    <div class="logohead">
     <img class="logo" src="{$mal.site.root}ohshadow.png" width="240" height="240" alt=""/>
     <img class="logosm" src="{$mal.site.root}ohshadowsm.png" width="120" height="120" alt=""/>
     <div class="heading">
       <h1>Open Help</h1>
       <h2>Conference &amp; Sprints</h2>
       <h3>2015</h3>
+    </div>
     </div>
     <div class="topnav">
       <ul>
