@@ -133,14 +133,15 @@ div.topnav li a {
   color: #555753;
   color: white;
   text-shadow: 1px 1px 0 #574030;
-  transition: background-color 1s;
+  border-radius: 4px;
+  transition: background-color 0.5s;
 }
 div.topnav li a:hover {
   border: none;
   background: rgba(254, 251, 198, 0.8);
-  border-radius: 4px;
   color: #574030;
   text-shadow: none;
+  transition: background-color 0s;
 }
 
 body {
