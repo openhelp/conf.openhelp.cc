@@ -39,6 +39,11 @@ div.logo {
   margin: 0;
   height: 300px;
   position: relative;
+  background: rgba(87, 64, 48, 0.3);
+  transition: background-color 1s;
+}
+div.logo:hover {
+  background: rgba(87, 64, 48, 0.5);
 }
 div.logohead {
   max-width: 940px;
@@ -100,37 +105,41 @@ div.logo h3 {
     font-size: 12pt;
   }
 }
-
 div.topnav {
-  background: rgba(254, 251, 198, 0.3);
-  margin: 0;
-  position: absolute;
-  bottom: 0px;
-  width: 100%;
-}
-div.topnav ul {
-  display: block;
   max-width: 940px;
   margin: 0 auto;
   padding: 0 10px;
+  clear: both;
+}
+div.topnav ul {
+  margin-left: 240px;
+}
+@media only screen and (max-width: 600px) {
+  div.topnav ul {
+    margin-left: 0;
+  }
 }
 div.topnav li {
   display: inline-block;
   margin: 0; padding: 0;
 }
 div.topnav li a {
-  font-family: Bitter;
+  font-family: Lato;
+  font-weight: bold;
+  font-size: 16px;
   display: inline-block;
   margin: 0;
-  padding: 10px 20px;
+  padding: 4px 8px;
   color: #555753;
   color: white;
   text-shadow: 1px 1px 0 #574030;
+  transition: background-color 1s;
 }
 div.topnav li a:hover {
   border: none;
-  background: rgba(254, 251, 198, 0.6);
-  color: black;
+  background: rgba(254, 251, 198, 0.8);
+  border-radius: 4px;
+  color: #574030;
   text-shadow: none;
 }
 
