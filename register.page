@@ -9,7 +9,6 @@
   <title type="link">Register</title>
   <script src="https://js.tito.io/v1" async="async"
           xmlns="http://www.w3.org/1999/xhtml"/>
-  <script xmlns="http://www.w3.org/1999/xhtml">TitoDevelopmentMode = true</script>
   <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1'
         xmlns="http://www.w3.org/1999/xhtml"/>
 </info>
