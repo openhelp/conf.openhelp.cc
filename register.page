@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="register">
+
+<info>
+  <title type="text">Open Help Conference &amp; Sprints</title>
+  <title type="link">Register</title>
+  <script src="https://js.tito.io/v1" async="async"
+          xmlns="http://www.w3.org/1999/xhtml"/>
+  <script xmlns="http://www.w3.org/1999/xhtml">TitoDevelopmentMode = true</script>
+  <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1'
+        xmlns="http://www.w3.org/1999/xhtml"/>
+</info>
+
+<title>2015 Registration</title>
+
+<p>Register for Open Help 2015 using the form below. Your $80 registraion
+fee includes the conference, meals, sprints, and social events. Traveling
+with a guest? Guests are always welcome at our social events. Just email
+<link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> and let us
+know so we have an accurate head count.</p>
+
+<p><em style="strong">Sponsors!</em> Sponsors receive free registrations.
+If you're part of a sponsoring organization, check with your organization
+contact for a special registration link. If you're unsure who to contact,
+email <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> and
+we'll put you in touch.</p>
+
+<div class="register" xmlns="http://www.w3.org/1999/xhtml">
+  <tito-widget event="openhelp/2015" releases="uvtwjqi5yso"></tito-widget>
+</div>
+
+</page>

@@ -22,6 +22,8 @@
   <link href="http://fonts.googleapis.com/css?family=Handlee:400,700" rel="stylesheet" type="text/css"/>
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
   <meta property="og:image" content="http://conf.openhelp.cc/oh.png"/>
+  <xsl:copy-of select="/mal:page/mal:info/html:script"/>
+  <xsl:copy-of select="/mal:page/mal:info/html:link"/>
 </xsl:template>
 
 <xsl:template name="html.css.custom">
@@ -237,6 +239,14 @@ div.media.floatend img {
   box-shadow: 2px 2px 2px #666;
   margin-top: -2.4em;
 }
+div.register {
+  max-width: 600px;
+  font-family: Bitter;
+  font-size: 20px;
+}
+div.register div {
+  margin: 0;
+}
 </xsl:text>
 </xsl:template>
 
@@ -289,7 +299,7 @@ div.media.floatend img {
         <li><a href="{$mal.site.root}2015/sessions{$mal.link.extension}">Sessions</a></li>
         <li><a href="{$mal.site.root}2015/speakers{$mal.link.extension}">Speakers</a></li>
         <li><a href="{$mal.site.root}location{$mal.link.extension}">Location</a></li>
-        <li><a href="https://ti.to/openhelp/2015">Register</a></li>
+        <li><a href="{$mal.site.root}register{$mal.link.extension}">Register</a></li>
       </ul>
     </div>
   </div>
