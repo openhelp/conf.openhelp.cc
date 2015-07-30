@@ -6,6 +6,7 @@
 
 <info>
   <link type="guide" xref="index"/>
+  <title type="link" role="-oh-noyear">Speakers</title>
 </info>
 
 <title>2015 Speakers</title>
@@ -13,6 +14,89 @@
 <p>Want to show the world what you’ve been working on? See the
 <link xref="sessions">Sessions</link> page for details on submitting
 a proposal for a talk or demo.</p>
+
+<section id="jason_porter">
+  <title>Jason Porter</title>
+
+  <media src="jasonporter.jpg" width="160" height="160" style="floatend">
+    <p>Jason Porter</p>
+  </media>
+
+  <p>Jason is a software engineer currently working in the Java Enterprise
+  Edition Space, Arquillian, Forge, web site and other developer experience
+  projects within Red Hat. His specialties include Wildfly, Seam, CDI, JSF,
+  Java EE, and Gradle. He has worked with PHP, Ruby, Groovy, XSLT, SASS the
+  rest of the web language arena (HTML, CSS, JS, etc). His current position
+  as Senior Software Engineer at Red Hat has him work primarily on the JBoss
+  website, however, he also contributes to JBoss Forge, Arquillian, Apache
+  DeltaSpike, Awestruct, Asciidoctor and others as time allows. He's very
+  interested in the developer experience and helping to improve it at all
+  aspects.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#jason_porter"/></p></item>
+  </list>
+
+  <list style="compact">
+    <title>Find Jason on:</title>
+    <item><p><link href="https://twitter.com/lightguardjp">Twitter</link></p></item>
+    <item><p><link href="https://www.linkedin.com/in/jasonporter">LinkedIn</link></p></item>
+    <item><p><link href="http://lanyrd.com/profile/lightguardjp/">Lanyrd</link></p></item>
+    <item><p><link href="https://github.com/LightGuard">GitHub</link></p></item>
+  </list>
+</section>
+
+<section id="janet_swisher">
+  <title>Janet Swisher</title>
+
+  <media src="janetswisher.jpg" width="160" height="156" style="floatend">
+    <p>Janet Swisher</p>
+  </media>
+
+  <p>Janet Swisher Janet Swisher helps build Mozilla’s communities
+  around developer documentation and technical evangelism. She has
+  worked as a technical writer since 1999, and has worked on open
+  source documentation since 2004. She has volunteered since 2008
+  with the <link href="http://en.flossmanuals.net/">FLOSS Manuals</link>
+  project. She writes about technical communication and open source
+  software on her blog,
+  <link href="http://www.janetswisher.com/">A Techie Technical Writer</link>.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#janet_swisher"/></p></item>
+  </list>
+
+  <list style="compact">
+    <title>Find Janet on:</title>
+    <item><p><link href="https://twitter.com/jmswisher">Twitter</link></p></item>
+    <item><p><link href="https://www.linkedin.com/in/janetswisher">LinkedIn</link></p></item>
+  </list>
+</section>
+
+<section id="shaun_mccance">
+  <title>Shaun McCance</title>
+
+  <media src="shaunmccance.jpg" width="160" height="160" style="floatend">
+    <p>Shaun McCance</p>
+  </media>
+
+  <p>Shaun McCance is the Community Documentation Liaison for the
+  Open Source and Standards team at Red Hat. He helps open source
+  projects build better documentation communities. Shaun has worked
+  on documentation for various open source projects, including a
+  decade-long run as the GNOME documentation team lead.</p>
+
+  <list style="compact">
+    <item><p><link xref="sessions#shaun_mccance"/></p></item>
+  </list>
+
+  <list style="compact">
+    <title>Find Shaun on:</title>
+    <item><p><link href="https://twitter.com/shaunm">Twitter</link></p></item>
+    <item><p><link href="https://www.linkedin.com/pub/shaun-mccance/11/41a/ba7">LinkedIn</link></p></item>
+    <item><p><link href="https://github.com/shaunix">GitHub</link></p></item>
+  </list>
+</section>
 
 <links type="guide" style="hidden"/>
 

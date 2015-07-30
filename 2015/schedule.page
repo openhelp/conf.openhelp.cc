@@ -6,9 +6,13 @@
 
 <info>
   <link type="guide" xref="index"/>
+  <title type="link" role="-oh-noyear">Schedule</title>
 </info>
 
 <title>2015 Schedule</title>
+
+<p>The sessions are not yet scheduled. See the <link xref="sessions"
+role="-oh-noyear"/> page for a list of sessions.</p>
 
 <section id="friday">
   <title>Friday, September 25</title>

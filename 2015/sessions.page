@@ -19,6 +19,7 @@
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
   </div>
+  <title type="link" role="-oh-noyear">Sessions</title>
 </info>
 
 <title>2015 Sessions</title>
@@ -46,6 +47,74 @@ in, so send your proposal as soon as possible.</p>
 
 <p>Open Help does not have the budget to cover the travel expenses of
 speakers, but we are happy to provide free registration to speakers.</p>
+
+<section id="featured">
+  <title>Featured Presentations</title>
+
+  <section id="jason_porter">
+    <title>Drop the angled brackets. Write (Ascii)Docs with pleasure!</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#jason_porter"/></p></item>
+    </list>
+
+    <p>Writing documentation is already hard enough. Why do we make it
+    more difficult by burying the content in an XML syntax like DocBook
+    or wrestling with finicky WSYWIG editors?</p>
+
+    <p>What if you could just write? Forget about the layout and styling
+    and just let the thoughts flow? That's the idea behind the lightweight
+    markup languages such as AsciiDoc. With AsciiDoc, the bulk of document
+    is the content, embellished with subtle and intuitive semantic notations.
+    AsciiDoc is designed for humans, yet machine parsable. It can even meet
+    the most advanced publishing requirements.</p>
+
+    <p>Come learn how to write documentation with pleasure using AsciiDoc
+    and still be able to produce beautiful HTML, DocBook and PDF
+    documents--and even presentation slides! Like this one.</p>
+  </section>
+
+  <section id="janet_swisher">
+    <title>Ten years of MDN as a wiki community: mistakes, lessons, and successes</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#janet_swisher"/></p></item>
+    </list>
+
+    <p><link href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</link>
+    (MDN) just celebrated ten years as an open documentation wiki and an open
+    documentation community. In this session, I'll look at MDN as a
+    <link href="https://en.wikipedia.org/wiki/Sociotechnical_system">sociotechnical</link>
+    system, that is, how its technological and social facets affect one another.
+    I'll talk about things we've done wrong and what we learned from them, as well
+    as things we've done right and how we know. (Spoiler: the content of this session
+    will largely overlap with this blog post,
+    <link href="https://blog.mozilla.org/community/2015/07/23/ten-years-of-evolution-of-mdn/">Ten
+    years of evolution of MDN</link>, but will focus more on the development of
+    the community.)</p>
+  </section>
+
+  <section id="shaun_mccance">
+    <title>Ducktype: An extensible lightweight syntax for Mallard</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#shaun_mccance"/></p></item>
+    </list>
+
+    <p><link href="http://projectmallard.org/">Mallard</link> is a uniquely dynamic
+    and extensible format for topic-oriented help. Its dynamic linking system allows
+    new pages to be dropped into existing documents without patching, and its
+    extension mechanisms let you add new features or mix in vocabularies like TTML,
+    SVG, and MathML. Mallard relies heavily on the extensibility of XML, and although
+    XML provides excellent tooling, it's not popular as a writing format.</p>
+
+    <p>Ducktype is a new lightweight format designed explicitly to handle everything
+    that Mallard can do. It can be used for everything from simple pages to pages
+    with embedded SVG, all without angle brackets. Most importantly, it can express
+    all of the metadata needed to make Mallard's automatic navigation work. Learn
+    about the challenges of making a non-XML format that can do everything XML can.</p>
+  </section>
+</section>
 
 <section id="briefs">
   <title>Demos and Briefs</title>
