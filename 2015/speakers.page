@@ -112,7 +112,9 @@ a proposal for a talk or demo.</p>
   tinkering with microcontrollers, riding touring and mountain
   bikes, and occasional landscape photography.</p>
 
-  <p><link xref="sessions#warren_block"/></p>
+  <list style="compact">
+    <item><p><link xref="sessions#warren_block"/></p></item>
+  </list>
 </section>
 
 <links type="guide" style="hidden"/>
