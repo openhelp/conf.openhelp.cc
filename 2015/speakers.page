@@ -98,6 +98,23 @@ a proposal for a talk or demo.</p>
   </list>
 </section>
 
+<section id="warren_block">
+  <title>Warren Block</title>
+
+  <media src="warrenblock.jpg" width="160" height="160" style="floatend">
+    <p>Warren Block</p>
+  </media>
+
+  <p>After using FreeBSD since 1998 for diverse applications ranging
+  from network monitoring to printer language translation, Warren
+  Block became a FreeBSD documentation committer in 2011. To avoid
+  overexposure, he alternates FreeBSD with repairing electronics,
+  tinkering with microcontrollers, riding touring and mountain
+  bikes, and occasional landscape photography.</p>
+
+  <p><link xref="sessions#warren_block"/></p>
+</section>
+
 <links type="guide" style="hidden"/>
 
 </page>

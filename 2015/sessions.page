@@ -114,6 +114,17 @@ speakers, but we are happy to provide free registration to speakers.</p>
     all of the metadata needed to make Mallard's automatic navigation work. Learn
     about the challenges of making a non-XML format that can do everything XML can.</p>
   </section>
+
+  <section id="warren_block">
+    <title>Doc Fail</title>
+
+    <list style="compact">
+      <item><p><link xref="speakers#warren_block"/></p></item>
+    </list>
+
+    <p>In this talk, we'll look at all the ways the documentation keeps repeating
+    the same mistakes. By recognizing these, we can help to avoid repeating them.</p>
+  </section>
 </section>
 
 <section id="briefs">
