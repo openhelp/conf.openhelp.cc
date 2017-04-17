@@ -43,18 +43,18 @@ div.logo div.heading {
 div.logo h1 {
   margin: 0;
   color: white;
-  font-size: 48pt;
+  font-size: 54px;
 }
 div.logo h2 {
   margin: 0;
   color: white;
-  font-size: 24pt;
+  font-size: 28px;
   font-weight: normal;
 }
 div.logo h3 {
   margin: 0;
   color: white;
-  font-size: 24pt;
+  font-size: 36px;
   font-weight: bold;
 }
 @media only screen and (max-width: 600px) {
@@ -72,11 +72,9 @@ div.logo h3 {
   div.logo div.heading {
     margin: 10px 0 0 0;
   }
-  div.logo h1 { font-size: 24pt; }
-  div.logo h2 { font-size: 12pt; }
-  div.logo h3 {
-    font-size: 12pt;
-  }
+  div.logo h1 { font-size: 27px; }
+  div.logo h2 { font-size: 14px; }
+  div.logo h3 { font-size: 18px; }
 }
 @media only screen and (max-width: 319px) {
   div.logohead { padding: 0; }
