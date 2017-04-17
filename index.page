@@ -7,6 +7,10 @@
 <info>
   <title type="text">Open Help Conference &amp; Sprints</title>
   <title type="link">Open Help</title>
+</info>
+
+<title style="hidden"></title>
+
   <div class="sidebar" xmlns="http://www.w3.org/1999/xhtml">
     <div class="inner">
     <h2>Spread the word !</h2>
@@ -14,7 +18,7 @@
     class="twitter-follow-button"
     data-show-count="false" data-size="large">Follow @openhelpconf</a></p>
     <p><a href="https://www.youtube.com/user/openhelpconference">Watch Open Help on YouTube</a></p>
-    <p><a href="http://lanyrd.com/2015/openhelp/">Track Open Help on Lanyrd</a></p>
+    <p><a href="http://lanyrd.com/2017/openhelp/">Track Open Help on Lanyrd</a></p>
 <!--
     <p><a href="/banner">Add this banner to your website</a>
   <div><img src="/2014/openhelp2014.png"></div></p>
@@ -28,56 +32,59 @@
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
   </div>
-</info>
 
-<title></title>
-
-<p>The 2015 Open Help Conference &amp; Sprints takes place September
-26-30 in downtown Cincinnati, Ohio. Open Help brings together leaders
-in open source documentation and support, as well as people from
+<p>The 2017 Open Help Conference &amp; Sprints takes place August 12-16
+Cincinnati historic Over-the-Rhine neighborhood. Open Help brings together
+leaders in open source documentation and support, as well as people from
 across the technical communications industry who are interested in
 community-based help.</p>
 
+<div>
+<title>A Different Kind of Conference</title>
 <p>The Open Help Conference features two days of presentations and
 open discussions. In true open source spirit, our discussions and
 agenda are led by our attendees, allowing you to learn and share
 what matters to you most. With some of the most interesting people
 in the industry, the Open Help Conference showcases the ideas that
 are shaping the future of help.</p>
+</div>
 
+<div>
+<title>Come to Learn, Stay to Sprint</title>
 <p>Following the conference, multiple teams take part in the Open
 Help Sprints, collaborative team meetings where people put ideas
 to work. Don’t have a team to bring to the sprint? Join us anyway
 and learn from the people who are pioneering documentation sprints.</p>
+</div>
 
-<section id="sponsors">
-  <title>Sponsors</title>
+<div>
+  <title>We ♥ Our Sponsors</title>
 
   <p>Interested in sponsoring the Open Help Conference? Sponsorship
   helps you promote your company to leaders in open source and
   technical communications. Email
   <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> for
   more information.</p>
+</div>
 
-  <p><link href="http://redhat.com/"><media src="2015/redhat.png" width="200" height="60">Red Hat</media></link></p>
-</section>
+<div>
+  <title>Oldies But Goodies</title>
 
-<section id="previous">
-  <title>Previous Years</title>
-
-  <p>Open Help is now in its fifth year. Check out the sessions and
-  discussions from <link xref="/2014/index">2014</link>,
+  <p>Open Help is now in its sixth year. Check out the sessions and
+  discussions from
+  <link xref="/2015/index">2015</link>,
+  <link xref="/2014/index">2014</link>,
   <link xref="/2013/index">2013</link>,
   <link xref="/2012/index">2012</link>, and
   <link xref="/2011/index">2011</link>.</p>
-</section>
+</div>
 
-<section id="conduct">
-  <title>Conduct</title>
+<div>
+  <title>Code of Conduct</title>
 
   <p>Open Help is dedicated to a harassment-free conference experience
   for everyone. See <link xref="conduct"/> for our anti-harassment
   policy.</p>
-</section>
+</div>
 
 </page>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="schedule">
+
+<info>
+  <link type="guide" xref="index"/>
+  <title type="link" role="-oh-noyear">Schedule</title>
+</info>
+
+<title>2017 Schedule</title>
+
+<p>The sessions are not yet scheduled. See the <link xref="sessions"
+role="-oh-noyear"/> page for a list of sessions.</p>
+
+<section id="friday">
+  <title>Friday, August 11</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:30pm</p></td>
+      <td><p>midnight or later</p></td>
+      <td><p>Reception details to be announced.</p></td>
+    </tr>
+  </table>
+</section>
+
+
+<section id="saturday">
+  <title>Saturday, August 12</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Sessions to be announced.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sunday">
+  <title>Sunday, August 13</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>9:00am</p></td>
+      <td><p>10:00am</p></td>
+      <td><p>Breakfast</p></td>
+    </tr>
+    <tr>
+      <td><p>10:00am</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Sessions to be announced.</p></td>
+    </tr>
+  </table>
+</section>
+
+<section id="sprints">
+  <title>August 14-16</title>
+  <table rules="rows" frame="top bottom">
+    <tr>
+      <td><p>8:00am</p></td>
+      <td><p>6:00pm</p></td>
+      <td><p>Team sprints</p></td>
+    </tr>
+  </table>
+</section>
+
+<links type="guide" style="hidden"/>
+
+</page>

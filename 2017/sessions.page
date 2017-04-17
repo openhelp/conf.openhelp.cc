@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- mode: nxml; indent-tabs-mode: nil -*- -->
+
+<page xmlns="http://projectmallard.org/1.0/"
+      id="sessions">
+
+<info>
+  <link type="guide" xref="index"/>
+  <title type="link" role="-oh-noyear">Sessions</title>
+</info>
+
+<title>2017 Sessions</title>
+
+<div class="sidebar" xmlns="http://www.w3.org/1999/xhtml">
+  <div class="inner">
+  <h2>What’s It Like?</h2>
+  <p>Check out the sessions from
+  <a href="/2014/index">2014</a>, <a href="/2013/index">2013</a>,
+  <a href="/2012/index">2012</a>, and <a href="/2011/index">2011</a>.</p>
+  <p><a href="https://www.youtube.com/user/openhelpconference">Watch Open Help on YouTube</a></p>
+  <p><a href="https://twitter.com/openhelpconf"
+  class="twitter-follow-button"
+  data-show-count="false" data-size="large">Follow @openhelpconf</a></p>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+</div>
+
+<p>Want to show the world what you’ve been working on? Email your
+proposal to <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link>.
+We’re interested in any topic related to documentation, support, and
+open communities. In particular, we’re excited to see talks related
+to the following:</p>
+
+<list style="compact">
+  <item><p>Engaging user communities to create user-generated content,
+  managing contributions and contributors, and getting people excited
+  about helping other users.</p></item>
+  <item><p>Running effective documentation sprints, either in-person
+  or remotely.</p></item>
+  <item><p>Making documentation available to everybody through better
+  internationalization, localization, and accessibility.</p></item>
+</list>
+
+<p>The Open Help Conference has a heavy focus on open discussion,
+so we prefer presentations that foster discussion and collaboration.
+Plan to speak for 45 minutes. Proposals are evaluated as they come
+in, so send your proposal as soon as possible.</p>
+
+<p>Open Help does not have the budget to cover the travel expenses of
+speakers, but we are happy to provide free registration to speakers.</p>
+
+<links type="guide" style="hidden"/>
+
+</page>

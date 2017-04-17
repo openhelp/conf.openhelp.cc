@@ -10,43 +10,38 @@
 
 <title>Location</title>
 
-<p>Open Help 2015 will be held at the historic
-<link href="http://new.mercantilelibrary.com/">Mercantile Library</link>
-at 414 Walnut St in downtown Cincinnati. Enter the building from the
-Walnut St entrance, then take the first elevator to your left to the
-eleventh floor.</p>
+<p>Open Help 2017 will be held at
+<link href="http://unionhallcincy.com/">Union Hall</link>,
+a historic Cincinnati beer hall that has been given a new life as a
+coworking space and startup accelerator.</p>
 
+<section id="map">
+<title style="hidden"/>
 <div xmlns="http://www.w3.org/1999/xhtml">
-<iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.2558015108602!2d-84.51095699999999!3d39.100646000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b15a887fa10f%3A0xf1fd765c7d16db84!2sMercantile+Library!5e0!3m2!1sen!2sus!4v1429546024527"
-    width="100%" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24766.333553141114!2d-84.52589701410622!3d39.111212386890855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3caee5bfc65866b3!2sUnion+Hall!5e0!3m2!1sen!2sus!4v1491909310701&amp;zoom=17&amp;scrollwheel=false" width="100%" height="350" frameborder="0" style="border:0;pointer-events:none;"></iframe>
+<p class="pagewide"><a href="https://www.google.com/maps/place/Union+Hall/@39.1065504,-84.5278711,14z/data=!4m8!1m2!2m1!1sunion+hall!3m4!1s0x8841b3fd94c8f02b:0x3caee5bfc65866b3!8m2!3d39.109885!4d-84.515631">View full map</a></p>
 </div>
+</section>
 
 <section id="hotels">
   <title>Hotels</title>
 
-  <p>We have a room block with the
+  <p>We recommend the
   <link href="http://www.millenniumhotels.com/usa/millenniumcincinnati/">Millennium
   Hotel Cincinnati</link>. The Millennium is in the heart of downtown and is a short
-  walk from our venue and all social events. We have single, double, triple, and quad
-  occupancy rooms available, each for $109 per night.</p>
-
-  <p><link href="https://reservations.millenniumhotels.com/ibe/details.aspx?propertyid=13546&amp;nights=1&amp;checkin=09/25/2015&amp;group=1509OPENHE">Use this link to book online with our room block.</link>
-  Or, call +1-800-876-2100 and reference "Open Help Conference".</p>
-
-  <p>The Millennium Hotel Cincinnati has a rooftop outdoor swimming pool. The pool
-  may still be open in late September, depending on weather.</p>
+  walk from streetcar stops and social events.</p>
 </section>
 
 <section id="transportation">
-  <title>Transportation</title>
+  <title>Getting Around</title>
 
-  <p>Cincinnati is served by the
-  <link href="http://www.cvgairport.com/">Cincinnati/Northern Kentucky
-  International Airport (CVG)</link>. Shuttles between the airport and downtown are
-  available from
-  <link href="http://executivetransportation.org/">Executive Transportation</link>
-  at $32 round-trip.</p>
+  <p>Union Hall is in Cincinnati’s Over-the-Rhine (OTR) neighborhood, which borders
+  the north side of downtown. Downtown and OTR are connected by the
+  <link href="http://www.cincinnati-oh.gov/streetcar/">Cincinnati streetcar</link>.
+  For Union Hall, use the 12th &amp; Vine stop when coming from the south, and use
+  the Washington Park stop when coming from the north. Tickets are available at all
+  streetcar stops. The streetcar costs $1 for a two-hour pass, or just $2 for an
+  all-day pass.</p>
 
   <p>Use the
   <link href="http://www.go-metro.com/">Cincinnati Metro bus</link> to visit other
@@ -54,6 +49,14 @@ eleventh floor.</p>
   <link href="http://www.tankbus.org/">TANK bus</link> to visit Northern Kentucky.
   <link href="http://www.cincyredbike.org/">Red Bike</link> has bicycle rental
   locations spread around Cincinnati and Nothern Kentucky.</p>
+
+  <p>Cincinnati is served by the
+  <link href="http://www.cvgairport.com/">Cincinnati/Northern Kentucky
+  International Airport (CVG)</link>. Shuttles between the airport and downtown are
+  available from
+  <link href="http://executivetransportation.org/">Executive Transportation</link>
+  for $36 roundtrip.</p>
+
 </section>
 
 </page>

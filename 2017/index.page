@@ -6,10 +6,10 @@
       id="index">
 
 <info>
-  <title type="link" role="trail">2015</title>
+  <title type="link" role="trail">2017</title>
 </info>
 
-<title>Open Help 2015</title>
+<title>Open Help 2017</title>
 
 <!--
 <media src="openhelp2015.png" width="125" height="125" style="floatstart"/>
@@ -20,9 +20,9 @@
 <section id="sponsors">
   <title>Sponsors</title>
 
-  <p>Open Help 2015 would not have been possible without our generous sponsors.</p>
-
-  <p><link href="http://redhat.com/"><media src="redhat.png" width="200" height="60">Red Hat</media></link></p>
+  <p>Interested in sponsoring the Open Help Conference? Sponsorship helps you promote
+  your company to leaders in open source and technical communications. Email
+  <link href="mailto:conf@openhelp.cc">conf@openhelp.cc</link> for more information.</p>
 </section>
 
 </page>

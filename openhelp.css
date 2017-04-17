@@ -1,0 +1,277 @@
+div.banner {
+  background: #515254 url('unionhall.jpg');
+  background-size: cover;
+  background-position: 0 -200px;
+  position: fixed;
+  height: 300px;
+  width: 100%;
+  margin: 0; padding: 0;
+  z-index: -100;
+}
+@media only screen and (max-width: 780px) {
+  div.banner { background-position: 0 -100px; }
+}
+@media only screen and (max-width: 600px) {
+  div.banner { background-position: 0 0; }
+}
+div.logo {
+  max-width: 620px;
+  margin: 0 auto;
+  height: 250px;
+}
+div.logohead {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+div.logo img.logo {
+  display: inline-block;
+  margin: 0;
+}
+div.logo img.logosm {
+  display: none;
+}
+div.logo div.heading {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  margin: 40px 0 0 0;
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  text-shadow: 1px 1px 0 #515254, 1px -1px 0 #515254, -1px 1px 0 #515254, -1px -1px 0 #515254;
+}
+div.logo h1 {
+  margin: 0;
+  color: white;
+  font-size: 48pt;
+}
+div.logo h2 {
+  margin: 0;
+  color: white;
+  font-size: 24pt;
+  font-weight: normal;
+}
+div.logo h3 {
+  margin: 0;
+  color: white;
+  font-size: 24pt;
+  font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+  div.logo {
+    height: 140px;
+    max-width: 320px;
+    margin: 0 auto;
+  }
+  div.logo img.logo { display: none; }
+  div.logo img.logosm {
+    display: block;
+    float: left;
+    margin: 0;
+  }
+  div.logo div.heading {
+    margin: 10px 0 0 0;
+  }
+  div.logo h1 { font-size: 24pt; }
+  div.logo h2 { font-size: 12pt; }
+  div.logo h3 {
+    font-size: 12pt;
+  }
+}
+@media only screen and (max-width: 319px) {
+  div.logohead { padding: 0; }
+}
+@media only screen and (max-width: 300px) {
+  div.logo { text-align: center; }
+  div.logo img.logosm { display: none; }
+}
+div.topnav {
+  margin-bottom: 20px;
+}
+div.topnav ul {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row;
+  background: #f0f0f0;
+  border-radius: 2px;
+  border: solid 1px #e0e0e0;
+}
+div.topnav li {
+  display: block;
+  margin: 0; padding: 0;
+}
+div.topnav li a {
+  font-size: 14px;
+  display: block;
+  margin: 0;
+  padding: 12px 20px;
+  color: #000033;
+  transition: background-color 0.5s;
+  border-right: solid 1px #e0e0e0;
+  white-space: nowrap;
+}
+div.topnav li:first-child a {
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+div.topnav li a:hover {
+  border-bottom: none;
+  background: #e0e0ff;
+  text-shadow: none;
+}
+div.topnavfixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  div.topnavfixed { position: static; }
+}
+div.topnavfixed ul {
+  border-radius: 0 0 2px 2px;
+}
+div.topnavfixed li:first-child a {
+  border-top-left-radius: 0;
+}
+span.earlybird {
+  position: absolute;
+  font-family: 'Handlee';
+  font-size: 18px;
+  color: #cc0000;
+  animation-name: earlybird;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  transform: translateY(-3px) translateX(12px);
+}
+@keyframes earlybird {
+  from { transform: translateY(-3px) translateX(12px) scale(2); filter: blur(4px); opacity: 0.0; }
+  50% { transform: translateY(-3px) translateX(12px) scale(2); filter: blur(4px); opacity: 0.0; }
+  to { transform: translateY(-3px) translateX(12px) scale(1); filter: blur(0); opacity: 1.0; }
+}
+span.earlybird i {
+  animation-name: earlybird-arrow;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+@keyframes earlybird-arrow {
+  from { transform: translateX(0); }
+  80% { transform: translateX(0); }
+  85% { transform: translateX(-3px); }
+  90% { transform: translateX(0); }
+  95% { transform: translateX(-3px); }
+  to { transform: translateX(0); }
+}
+div.topnav a:hover span.earlybird i {
+  animation-name: earlybird-arrow-hover;
+  animation-duration: 2s;
+}
+@keyframes earlybird-arrow-hover {
+  from { transform: translateX(0); }
+  25% { transform: translateX(-3px); }
+  50% { transform: translateX(0); }
+  75% { transform: translateX(-3px); }
+  to { transform: translateX(0); }
+}
+@media only screen and (max-width: 960px) {
+  div.topnav ul { border-radius: 0; }
+  div.topnavfixed ul { border-radius: 0; }
+  div.topnav li:first-child a { border-radius: 0; }
+}
+@media only screen and (max-width: 780px) {
+  span.earlybird { display: none; }
+}
+@media only screen and (max-width: 600px) {
+  div.topnav ul {
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: stretch;
+    border: none;
+    border-left: solid 1px #e0e0e0;
+    border-bottom: solid 1px #e0e0e0;
+  }
+  div.topnav li { flex: 1 1 150px; }
+  div.topnav li a { border-top: solid 1px #e0e0e0; }
+}
+@media only screen and (max-width: 480px) {
+  div.topnav li { flex: 1 1 120px; }
+}
+@media only screen and (max-width: 380px) {
+  div.topnav li { flex: 1 1 100px; }
+}
+
+body {
+  font-family: 'Roboto', sans;
+  font-size: 20px;
+  color: #606060;
+}
+div.sidebar {
+  float: right;
+  width: 300px;
+  margin-left: 20px;
+  min-height: 300px;
+}
+div.sidebar p {
+  margin-top: 1em;
+  font-size: 16px;
+}
+div.sidebar h2 {
+  font-family: Handlee;
+  font-size: 20pt;
+}
+@media only screen and (max-width: 600px) {
+  div.sidebar {
+    display: none;
+  }
+}
+
+header { background: white; }
+div.trails { background: white; font-size: 14px; }
+article { min-height: 100vh; padding-bottom: 40px; }
+section.links { display: none; }
+section > div.inner > div.hgroup {
+  border-bottom: none;
+}
+section#map > div.inner > div.region > .pagewide {
+  max-width: 100%;
+  padding: 0;
+}
+div.hgroup { font-family: 'Roboto Slab'; }
+h1.title { margin: 0 0 0.5em 0; font-size: 3em; font-weight: normal; }
+h2.title { margin: 0.5em 0; font-size: 2em; font-weight: normal; }
+h3.title { margin: 0.5em 0; font-size: 1.4em; font-weight: normal; }
+div.title {
+  font-family: 'Roboto Slab';
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 1em 0;
+}
+p { max-width: 62em; text-align: justify; }
+a, a:visited { color: #303757; }
+a:hover { border-bottom: solid 1px #303757; }
+#sponsors a, a img { border: none; }
+@media only screen and (max-width: 400px) {
+  h1.title { font-size: 2em; }
+  h2.title { font-size: 1.44em; }
+  p { text-align: left; }
+}
+table, td { border-color: #ccc; }
+
+div.media.floatend img {
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px #666;
+  margin-top: -2.4em;
+}
+div.register {
+  max-width: 600px;
+  font-family: Bitter;
+  font-size: 20px;
+}
+div.register div {
+  margin: 0;
+}
+span.em-bold {
+  font-family: 'Roboto Slab';
+  color: #606060;
+}
