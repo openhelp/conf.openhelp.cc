@@ -147,7 +147,8 @@ span.earlybird {
   50% { transform: translateY(-3px) translateX(12px) scale(2); filter: blur(4px); opacity: 0.0; }
   to { transform: translateY(-3px) translateX(12px) scale(1); filter: blur(0); opacity: 1.0; }
 }
-span.earlybird i {
+span.earlybird b {
+  display: inline-block;
   animation-name: earlybird-arrow;
   animation-duration: 5s;
   animation-fill-mode: forwards;
@@ -161,7 +162,7 @@ span.earlybird i {
   95% { transform: translateX(-3px); }
   to { transform: translateX(0); }
 }
-div.topnav a:hover span.earlybird i {
+div.topnav a:hover span.earlybird b {
   animation-name: earlybird-arrow-hover;
   animation-duration: 2s;
 }

@@ -20,7 +20,6 @@
   <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css"/>
   <link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type="text/css"/>
   <link href="http://fonts.googleapis.com/css?family=Handlee" rel="stylesheet" type="text/css"/>
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
   <meta property="og:image" content="http://conf.openhelp.cc/oh.png"/>
   <xsl:copy-of select="/mal:page/mal:info/html:script"/>
   <xsl:copy-of select="/mal:page/mal:info/html:link"/>
@@ -80,7 +79,7 @@ window.addEventListener('scroll', function(e) {
       <li><a href="{$mal.site.root}2017/sessions{$mal.link.extension}">Sessions</a></li>
       <li><a href="{$mal.site.root}2017/speakers{$mal.link.extension}">Speakers</a></li>
       <li><a href="{$mal.site.root}location{$mal.link.extension}">Location</a></li>
-      <li><a href="{$mal.site.root}register{$mal.link.extension}">Register <span class="earlybird"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Early bird price until June 3!</span></a></li>
+      <li><a href="{$mal.site.root}register{$mal.link.extension}">Register <span class="earlybird"><b>←</b> Early bird price until June 3!</span></a></li>
     </ul>
   </div>
 </xsl:template>
