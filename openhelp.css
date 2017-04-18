@@ -26,7 +26,7 @@ div.logohead {
 }
 div.logo img.logo {
   display: inline-block;
-  margin: 0;
+  margin: 0 10px 0 0;
 }
 div.logo img.logosm {
   display: none;
@@ -63,14 +63,10 @@ div.logo h3 {
     max-width: 320px;
     margin: 0 auto;
   }
-  div.logo img.logo { display: none; }
-  div.logo img.logosm {
-    display: block;
-    float: left;
-    margin: 0;
-  }
+  div.logo img.logo { width: 120px; height: 120px; }
   div.logo div.heading {
-    margin: 10px 0 0 0;
+    margin: 20px 0 0 0;
+    text-shadow: 0.5px 0.5px 0 #515254, 0.5px -0.5px 0 #515254, -0.5px 0.5px 0 #515254, -0.5px -0.5px 0 #515254;
   }
   div.logo h1 { font-size: 27px; }
   div.logo h2 { font-size: 14px; }

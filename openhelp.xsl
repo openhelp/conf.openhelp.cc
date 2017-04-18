@@ -64,7 +64,6 @@ window.addEventListener('scroll', function(e) {
   <div class="logo">
     <div class="logohead">
     <img class="logo" src="{$mal.site.root}oh.svg" width="240" height="240" alt=""/>
-    <img class="logosm" src="{$mal.site.root}oh.svg" width="120" height="120" alt=""/>
     <div class="heading">
       <h1>Open Help</h1>
       <h2>Conference &amp; Sprints</h2>
