@@ -78,7 +78,7 @@ window.addEventListener('scroll', function(e) {
       <li><a href="{$mal.site.root}2017/sessions{$mal.link.extension}">Sessions</a></li>
       <li><a href="{$mal.site.root}2017/speakers{$mal.link.extension}">Speakers</a></li>
       <li><a href="{$mal.site.root}location{$mal.link.extension}">Location</a></li>
-      <li><a href="{$mal.site.root}register{$mal.link.extension}">Register <span class="earlybird"><b>←</b> Early bird price until June 18!</span></a></li>
+      <li><a href="{$mal.site.root}register{$mal.link.extension}">Register <span class="earlybird"><b>←</b> Only $80!</span></a></li>
     </ul>
   </div>
 </xsl:template>
