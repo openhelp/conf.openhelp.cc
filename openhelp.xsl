@@ -87,6 +87,11 @@ window.addEventListener('scroll', function(e) {
   <xsl:apply-templates mode="oh.html.mode" select="."/>
 </xsl:template>
 
+<xsl:template mode="html.class.attr.mode"
+              match="mal:link[contains(concat(' ', @style, ' '), ' nounderline ')]">
+  <xsl:text>nounderline</xsl:text>
+</xsl:template>
+
 <xsl:template mode="oh.html.mode" match="html:*">
   <xsl:element name="{local-name(.)}" namespace="{$html.namespace}">
     <xsl:copy-of select="@*"/>

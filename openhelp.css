@@ -245,7 +245,7 @@ div.title {
 p { max-width: 62em; text-align: justify; }
 a, a:visited { color: #303757; }
 a:hover { border-bottom: solid 1px #303757; }
-#sponsors a, a img { border: none; }
+#sponsors a, a img, span.nounderline a { border: none; }
 @media only screen and (max-width: 400px) {
   h1.title { font-size: 2em; }
   h2.title { font-size: 1.44em; }
