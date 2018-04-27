@@ -18,7 +18,9 @@
     class="twitter-follow-button"
     data-show-count="false" data-size="large">Follow @openhelpconf</a></p>
     <p><a href="https://www.youtube.com/user/openhelpconference">Watch Open Help on YouTube</a></p>
+<!--
     <p><a href="http://lanyrd.com/2017/openhelp/">Track Open Help on Lanyrd</a></p>
+-->
 <!--
     <p><a href="/banner">Add this banner to your website</a>
   <div><img src="/2014/openhelp2014.png"></div></p>
@@ -33,6 +35,15 @@
     </div>
   </div>
 
+<p>We’re excited to partner with Write the Docs to bring you
+<link href="http://www.writethedocs.org/conf/cincinnati/2018/">Write the Docs + Open Help Cincinnati 2018</link>,
+to be held August 18-22.
+We will have one day of Write the Docs-style talks, followed by one day of combined Write the Docs and Open Help discussions.
+Then we’ll have an Open Help-style three-day documentation sprint.
+Check the <link href="http://www.writethedocs.org/conf/cincinnati/2018/">Write the Docs</link>
+site for all information about this year’s event.</p>
+
+<!--
 <p>The 2017 Open Help Conference &amp; Sprints takes place August 12-16 in
 Cincinnati’s historic Over-the-Rhine neighborhood. Open Help brings together
 leaders in open source documentation and support, as well as people from
@@ -88,5 +99,6 @@ and learn from the people who are pioneering documentation sprints.</p>
   for everyone. See <link xref="conduct"/> for our anti-harassment
   policy.</p>
 </div>
+-->
 
 </page>
