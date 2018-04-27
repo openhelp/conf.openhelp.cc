@@ -71,6 +71,7 @@ window.addEventListener('scroll', function(e) {
     </div>
     </div>
   </div>
+<!--
   <div class="topnav">
     <ul>
       <li><a href="{$mal.site.root}{$rootlink}">Home</a></li>
@@ -81,6 +82,7 @@ window.addEventListener('scroll', function(e) {
       <li><a href="{$mal.site.root}register{$mal.link.extension}">Register <span class="earlybird"><b>←</b> Only $80!</span></a></li>
     </ul>
   </div>
+-->
 </xsl:template>
 
 <xsl:template mode="mal2html.block.mode" match="html:div">
