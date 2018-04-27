@@ -67,7 +67,9 @@ window.addEventListener('scroll', function(e) {
     <div class="heading">
       <h1>Open Help</h1>
       <h2>Conference &amp; Sprints</h2>
-      <h3>2017</h3>
+<!--
+      <h3>2018</h3>
+-->
     </div>
     </div>
   </div>
